@@ -1,0 +1,470 @@
+[
+    {
+        "team1": "India",
+        "team2": "South Africa",
+        "winner": "India",
+        "margin": "7 runs",
+        "ground": "Bridgetown",
+        "matchDate": "Jun 29, 2024",
+        "scorecard": "T20I # 2729"
+    },
+    {
+        "team1": "England",
+        "team2": "India",
+        "winner": "India",
+        "margin": "68 runs",
+        "ground": "Providence",
+        "matchDate": "Jun 27, 2024",
+        "scorecard": "T20I # 2724"
+    },
+    {
+        "team1": "Afghanistan",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "margin": "9 wickets",
+        "ground": "Tarouba",
+        "matchDate": "Jun 26, 2024",
+        "scorecard": "T20I # 2723"
+    },
+    {
+        "team1": "Afghanistan",
+        "team2": "Bangladesh",
+        "winner": "Afghanistan",
+        "margin": "8 runs",
+        "ground": "Kingstown",
+        "matchDate": "Jun 24, 2024",
+        "scorecard": "T20I # 2722"
+    },
+    {
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "India",
+        "margin": "24 runs",
+        "ground": "Gros Islet",
+        "matchDate": "Jun 24, 2024",
+        "scorecard": "T20I # 2721"
+    },
+    {
+        "team1": "West Indies",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "margin": "3 wickets",
+        "ground": "North Sound",
+        "matchDate": "Jun 23, 2024",
+        "scorecard": "T20I # 2720"
+    },
+    {
+        "team1": "England",
+        "team2": "U.S.A.",
+        "winner": "England",
+        "margin": "10 wickets",
+        "ground": "Bridgetown",
+        "matchDate": "Jun 23, 2024",
+        "scorecard": "T20I # 2719"
+    },
+    {
+        "team1": "Afghanistan",
+        "team2": "Australia",
+        "winner": "Afghanistan",
+        "margin": "21 runs",
+        "ground": "Kingstown",
+        "matchDate": "Jun 22, 2024",
+        "scorecard": "T20I # 2717"
+    },
+    {
+        "team1": "Bangladesh",
+        "team2": "India",
+        "winner": "India",
+        "margin": "50 runs",
+        "ground": "North Sound",
+        "matchDate": "Jun 22, 2024",
+        "scorecard": "T20I # 2716"
+    },
+    {
+        "team1": "West Indies",
+        "team2": "U.S.A.",
+        "winner": "West Indies",
+        "margin": "9 wickets",
+        "ground": "Bridgetown",
+        "matchDate": "Jun 21, 2024",
+        "scorecard": "T20I # 2713"
+    },
+    {
+        "team1": "England",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "margin": "7 runs",
+        "ground": "Gros Islet",
+        "matchDate": "Jun 21, 2024",
+        "scorecard": "T20I # 2712"
+    },
+    {
+        "team1": "Australia",
+        "team2": "Bangladesh",
+        "winner": "Australia",
+        "margin": "28 runs",
+        "ground": "North Sound",
+        "matchDate": "Jun 20, 2024",
+        "scorecard": "T20I # 2711"
+    },
+    {
+        "team1": "Afghanistan",
+        "team2": "India",
+        "winner": "India",
+        "margin": "47 runs",
+        "ground": "Bridgetown",
+        "matchDate": "Jun 20, 2024",
+        "scorecard": "T20I # 2710"
+    },
+    {
+        "team1": "West Indies",
+        "team2": "England",
+        "winner": "England",
+        "margin": "8 wickets",
+        "ground": "Gros Islet",
+        "matchDate": "Jun 19, 2024",
+        "scorecard": "T20I # 2709"
+    },
+    {
+        "team1": "South Africa",
+        "team2": "U.S.A.",
+        "winner": "South Africa",
+        "margin": "18 runs",
+        "ground": "North Sound",
+        "matchDate": "Jun 19, 2024",
+        "scorecard": "T20I # 2708"
+    },
+    {
+        "team1": "West Indies",
+        "team2": "Afghanistan",
+        "winner": "West Indies",
+        "margin": "104 runs",
+        "ground": "Gros Islet",
+        "matchDate": "Jun 17, 2024",
+        "scorecard": "T20I # 2703"
+    },
+    {
+        "team1": "New Zealand",
+        "team2": "P.N.G.",
+        "winner": "New Zealand",
+        "margin": "7 wickets",
+        "ground": "Tarouba",
+        "matchDate": "Jun 17, 2024",
+        "scorecard": "T20I # 2702"
+    },
+    {
+        "team1": "Netherlands",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "margin": "83 runs",
+        "ground": "Gros Islet",
+        "matchDate": "Jun 16, 2024",
+        "scorecard": "T20I # 2699"
+    },
+    {
+        "team1": "Bangladesh",
+        "team2": "Nepal",
+        "winner": "Bangladesh",
+        "margin": "21 runs",
+        "ground": "Kingstown",
+        "matchDate": "Jun 16, 2024",
+        "scorecard": "T20I # 2698"
+    },
+    {
+        "team1": "Ireland",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "3 wickets",
+        "ground": "Lauderhill",
+        "matchDate": "Jun 16, 2024",
+        "scorecard": "T20I # 2697"
+    },
+    {
+        "team1": "Australia",
+        "team2": "Scotland",
+        "winner": "Australia",
+        "margin": "5 wickets",
+        "ground": "Gros Islet",
+        "matchDate": "Jun 15, 2024",
+        "scorecard": "T20I # 2689"
+    },
+    {
+        "team1": "England",
+        "team2": "Namibia",
+        "winner": "England",
+        "margin": "41 runs",
+        "ground": "North Sound",
+        "matchDate": "Jun 15, 2024",
+        "scorecard": "T20I # 2688"
+    },
+    {
+        "team1": "New Zealand",
+        "team2": "Uganda",
+        "winner": "New Zealand",
+        "margin": "9 wickets",
+        "ground": "Tarouba",
+        "matchDate": "Jun 14, 2024",
+        "scorecard": "T20I # 2682"
+    },
+    {
+        "team1": "Nepal",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "margin": "1 run",
+        "ground": "Kingstown",
+        "matchDate": "Jun 14, 2024",
+        "scorecard": "T20I # 2681"
+    },
+    {
+        "team1": "Afghanistan",
+        "team2": "P.N.G.",
+        "winner": "Afghanistan",
+        "margin": "7 wickets",
+        "ground": "Tarouba",
+        "matchDate": "Jun 13, 2024",
+        "scorecard": "T20I # 2679"
+    },
+    {
+        "team1": "England",
+        "team2": "Oman",
+        "winner": "England",
+        "margin": "8 wickets",
+        "ground": "North Sound",
+        "matchDate": "Jun 13, 2024",
+        "scorecard": "T20I # 2678"
+    },
+    {
+        "team1": "Bangladesh",
+        "team2": "Netherlands",
+        "winner": "Bangladesh",
+        "margin": "25 runs",
+        "ground": "Kingstown",
+        "matchDate": "Jun 13, 2024",
+        "scorecard": "T20I # 2677"
+    },
+    {
+        "team1": "West Indies",
+        "team2": "New Zealand",
+        "winner": "West Indies",
+        "margin": "13 runs",
+        "ground": "Tarouba",
+        "matchDate": "Jun 12, 2024",
+        "scorecard": "T20I # 2672"
+    },
+    {
+        "team1": "U.S.A.",
+        "team2": "India",
+        "winner": "India",
+        "margin": "7 wickets",
+        "ground": "New York",
+        "matchDate": "Jun 12, 2024",
+        "scorecard": "T20I # 2671"
+    },
+    {
+        "team1": "Australia",
+        "team2": "Namibia",
+        "winner": "Australia",
+        "margin": "9 wickets",
+        "ground": "North Sound",
+        "matchDate": "Jun 11, 2024",
+        "scorecard": "T20I # 2666"
+    },
+    {
+        "team1": "Canada",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "7 wickets",
+        "ground": "New York",
+        "matchDate": "Jun 11, 2024",
+        "scorecard": "T20I # 2665"
+    },
+    {
+        "team1": "Bangladesh",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "margin": "4 runs",
+        "ground": "New York",
+        "matchDate": "Jun 10, 2024",
+        "scorecard": "T20I # 2664"
+    },
+    {
+        "team1": "Oman",
+        "team2": "Scotland",
+        "winner": "Scotland",
+        "margin": "7 wickets",
+        "ground": "North Sound",
+        "matchDate": "Jun 9, 2024",
+        "scorecard": "T20I # 2659"
+    },
+    {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "India",
+        "margin": "6 runs",
+        "ground": "New York",
+        "matchDate": "Jun 9, 2024",
+        "scorecard": "T20I # 2658"
+    },
+    {
+        "team1": "West Indies",
+        "team2": "Uganda",
+        "winner": "West Indies",
+        "margin": "134 runs",
+        "ground": "Providence",
+        "matchDate": "Jun 8, 2024",
+        "scorecard": "T20I # 2651"
+    },
+    {
+        "team1": "Australia",
+        "team2": "England",
+        "winner": "Australia",
+        "margin": "36 runs",
+        "ground": "Bridgetown",
+        "matchDate": "Jun 8, 2024",
+        "scorecard": "T20I # 2650"
+    },
+    {
+        "team1": "Netherlands",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "margin": "4 wickets",
+        "ground": "New York",
+        "matchDate": "Jun 8, 2024",
+        "scorecard": "T20I # 2649"
+    },
+    {
+        "team1": "Bangladesh",
+        "team2": "Sri Lanka",
+        "winner": "Bangladesh",
+        "margin": "2 wickets",
+        "ground": "Dallas",
+        "matchDate": "Jun 7, 2024",
+        "scorecard": "T20I # 2646"
+    },
+    {
+        "team1": "Afghanistan",
+        "team2": "New Zealand",
+        "winner": "Afghanistan",
+        "margin": "84 runs",
+        "ground": "Providence",
+        "matchDate": "Jun 7, 2024",
+        "scorecard": "T20I # 2645"
+    },
+    {
+        "team1": "Canada",
+        "team2": "Ireland",
+        "winner": "Canada",
+        "margin": "12 runs",
+        "ground": "New York",
+        "matchDate": "Jun 7, 2024",
+        "scorecard": "T20I # 2644"
+    },
+    {
+        "team1": "Namibia",
+        "team2": "Scotland",
+        "winner": "Scotland",
+        "margin": "5 wickets",
+        "ground": "Bridgetown",
+        "matchDate": "Jun 6, 2024",
+        "scorecard": "T20I # 2643"
+    },
+    {
+        "team1": "U.S.A.",
+        "team2": "Pakistan",
+        "winner": "tied",
+        "margin": "-",
+        "ground": "Dallas",
+        "matchDate": "Jun 6, 2024",
+        "scorecard": "T20I # 2642"
+    },
+    {
+        "team1": "Australia",
+        "team2": "Oman",
+        "winner": "Australia",
+        "margin": "39 runs",
+        "ground": "Bridgetown",
+        "matchDate": "Jun 5, 2024",
+        "scorecard": "T20I # 2641"
+    },
+    {
+        "team1": "P.N.G.",
+        "team2": "Uganda",
+        "winner": "Uganda",
+        "margin": "3 wickets",
+        "ground": "Providence",
+        "matchDate": "Jun 5, 2024",
+        "scorecard": "T20I # 2640"
+    },
+    {
+        "team1": "India",
+        "team2": "Ireland",
+        "winner": "India",
+        "margin": "8 wickets",
+        "ground": "New York",
+        "matchDate": "Jun 5, 2024",
+        "scorecard": "T20I # 2639"
+    },
+    {
+        "team1": "Nepal",
+        "team2": "Netherlands",
+        "winner": "Netherlands",
+        "margin": "6 wickets",
+        "ground": "Dallas",
+        "matchDate": "Jun 4, 2024",
+        "scorecard": "T20I # 2638"
+    },
+    {
+        "team1": "England",
+        "team2": "Scotland",
+        "winner": "no result",
+        "margin": "-",
+        "ground": "Bridgetown",
+        "matchDate": "Jun 4, 2024",
+        "scorecard": "T20I # 2637"
+    },
+    {
+        "team1": "Afghanistan",
+        "team2": "Uganda",
+        "winner": "Afghanistan",
+        "margin": "125 runs",
+        "ground": "Providence",
+        "matchDate": "Jun 3, 2024",
+        "scorecard": "T20I # 2636"
+    },
+    {
+        "team1": "South Africa",
+        "team2": "Sri Lanka",
+        "winner": "South Africa",
+        "margin": "6 wickets",
+        "ground": "New York",
+        "matchDate": "Jun 3, 2024",
+        "scorecard": "T20I # 2635"
+    },
+    {
+        "team1": "Namibia",
+        "team2": "Oman",
+        "winner": "tied",
+        "margin": "-",
+        "ground": "Bridgetown",
+        "matchDate": "Jun 2, 2024",
+        "scorecard": "T20I # 2634"
+    },
+    {
+        "team1": "West Indies",
+        "team2": "P.N.G.",
+        "winner": "West Indies",
+        "margin": "5 wickets",
+        "ground": "Providence",
+        "matchDate": "Jun 2, 2024",
+        "scorecard": "T20I # 2633"
+    },
+    {
+        "team1": "U.S.A.",
+        "team2": "Canada",
+        "winner": "U.S.A.",
+        "margin": "7 wickets",
+        "ground": "Dallas",
+        "matchDate": "Jun 1, 2024",
+        "scorecard": "T20I # 2632"
+    }
+]
