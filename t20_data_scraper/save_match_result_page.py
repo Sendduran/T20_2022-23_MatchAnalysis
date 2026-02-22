@@ -27,6 +27,7 @@ for row in rows:
     table_data = row.find_elements(By.TAG_NAME, "td")
 
     scorecard_element = table_data[6].find_element(By.TAG_NAME, "a")
+    scorecard = scorecard_element.text
     match_summary.append({
         "team1": table_data[0].text,
         "team2" : table_data[1].text,
@@ -34,11 +35,11 @@ for row in rows:
         "margin":table_data[3].text,
         "ground":table_data[4].text,
         "matchDate":table_data[5].text,
-        "scorecard":scorecard_element.text,
+        "scorecard":scorecard,
     })
 
     match_url.append({
-        "scorecard":scorecard_element.text,
+        "scorecard":scorecard,
         "scorecard_url":scorecard_element.get_attribute("href")
     })
 
