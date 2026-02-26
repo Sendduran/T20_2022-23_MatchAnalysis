@@ -1,0 +1,2387 @@
+[
+  {
+    "name": "Rohit Sharma (c)",
+    "team": "India",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Top order Batter",
+    "description": "Languid and easy on the eye, Rohit Sharma owned all the shots in the book when he emerged from the Mumbai suburbs as heir apparent to the Indian batting greats of the 2000s. It took him time and persistence, but by the 2010s he had become a colossus in white-ball cricket, and the man in charge of perhaps the most formidable league team in the first age of T20.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/385800/385819.2.png"
+  },
+  {
+    "name": "Virat Kohli",
+    "team": "India",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Top order Batter",
+    "description": "India has given to the world many a great cricketer but none as ambitious as Virat Kohli. To meet his ambition, Kohli employed the technical assiduousness of Sachin Tendulkar and fitness that was in the league of top athletes in the world, not just cricketers. As a result, Kohli became the most consistent all-format accumulator of his time, making jaw-dropping chases look easy, and finding, in his own words, the safest possible way to score runs. Plenty of them.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316605.3.png"
+  },
+  {
+    "name": "Rishabh Pant Ã¢â‚¬Â ",
+    "team": "India",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "A match-turning, swashbuckling batter-keeper in the Adam Gilchrist mould, Rishabh Pant has had a starring role in most of India's biggest Test matches in his first few years in the team.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323000/323036.1.png"
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "team": "India",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium, Right arm Offbreak",
+    "playingRole": "Batter",
+    "description": "Hard-hitting 360-degree batter Suryakumar Yadav has all the shots, including a few not in any textbook save the one written by AB de Villiers. He also has a yen for making batting look easy, as he showed during four golden years with Mumbai Indians starting in 2018, during which they won the IPL title twice, thanks in no small part to his 1700-plus runs at a strike rate of around 140.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/331100/331163.1.png"
+  },
+  {
+    "name": "Axar Patel",
+    "team": "India",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "description": "Left-arm spinner Axar Patel has been increasingly handy with the bat in the lower order across formats - enough to be classified as a bowling allrounder. He played just one first-class game in his debut season for Gujarat, but had a more successful showing in 2013, when he was one of the key contributors to India Under-23s' title win in the ACC Emerging Teams Cup, with seven wickets, including a four-for in the semi-final against UAE. He was consistent for Gujarat with bat and ball in the Ranji Trophy that season, finishing with 369 runs at an average of 46.12 and 29 wickets at 23.58.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/331100/331164.2.png"
+  },
+  {
+    "name": "Shivam Dube",
+    "team": "India",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "description": "A tall pace-bowling allrounder from the suburbs of Mumbai who started in the city's robust school cricket circuit, Shivam Dube shot to limelight in domestic cricket and the IPL with his almost unparallel six-hitting ability, especially against spin.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383700/383773.1.png"
+  },
+  {
+    "name": "Hardik Pandya",
+    "team": "India",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Allrounder",
+    "description": "Allrounder Hardik Pandya's calling cards brisk seam bowling and powerful ball-striking marked by the ability to hit sixes from the first ball.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/388300/388343.5.png"
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "team": "India",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "description": "Dissed when he first appeared, Ravindra Jadeja won the doubters and haters over with his deeds, and now sits among the elite of Indian spin bowling.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316600.2.png"
+  },
+  {
+    "name": "Marco Jansen",
+    "team": "South Africa",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Fast",
+    "playingRole": "Bowling Allrounder",
+    "description": "Beanpole South Africa allrounder Marco Jansen generates steep bounce at sharp pace and can hit a long ball to go with it, giving his nation reason to hope they had a worthy successor to the Kallises and Pollocks of years gone by.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/337100/337189.1.png"
+  },
+  {
+    "name": "Keshav Maharaj",
+    "team": "South Africa",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "description": "A left-arm spinner from Northwood Boys High, the alma mater of Shaun Pollock, Keshav Maharaj emerged at a time when South Africa began to take spin seriously. For several seasons in the mid 2010s, spinners were among the leading wicket-takers in South Africa's first-class competition. Maharaj was among them in the 2014-15 and 2015-16 seasons and was rewarded with an international call-up the following summer.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322072.1.png"
+  },
+  {
+    "name": "Kagiso Rabada",
+    "team": "South Africa",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "A genuine quick who regularly bowls in the 140-150kph range and knows how to set up batters, Kagiso Rabada quickly established himself as the leader of South Africa's attack in the late 2010s, living up to the hype he generated as a teen prodigy.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320300/320376.1.png"
+  },
+  {
+    "name": "Aiden Markram",
+    "team": "South Africa",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Middle order Batter",
+    "description": "The first South Africa captain to win a World Cup, albeit at age-group level, Aiden Markram announced himself as champion material early. He led South Africa's Under-19s to World Cup glory in 2014 and was also their leading run-scorer and third overall. It took him another three years to break into the senior side, but when he did, he made an impact right away with 97, 143 and 125 in his first three Tests, at home against Bangladesh and Zimbabwe.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322067.1.png"
+  },
+  {
+    "name": "Anrich Nortje",
+    "team": "South Africa",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "With an ability to combine high speed with late swing, Nortje is the ideal successor to his hero Dale Steyn in South Africa's pace attack.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322080.1.png"
+  },
+  {
+    "name": "Tabraiz Shamsi",
+    "team": "South Africa",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Wrist spin",
+    "playingRole": "Bowler",
+    "description": "A left-arm wristspin bowler with ample variations and a good googly, Tabraiz Shamsi emerged as South Africa were starting to warm to the wave of spinners being produced at domestic levels, although it took a while for him to come through.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322068.1.png"
+  },
+  {
+    "name": "Reeza Hendricks",
+    "team": "South Africa",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Opening Batter",
+    "description": "Reeza Hendricks has fashioned a reputation as a destructive T20 opener, with crisp shot-making, particularly through the covers, and one adept at pacing a knock and scoring quickly at either end of an innings.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322071.1.png"
+  },
+  {
+    "name": "Quinton de Kock Ã¢â‚¬Â ",
+    "team": "South Africa",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Quinton de Kock's fearless striking and handy glovework earned him comparisons to greats of the game like Adam Gilchrist and Mark Boucher early in his career. By 21, he shared the record for the most successive ODI centuries - three - before it was bettered by Kumar Sangakkara. A year later, he had established himself in all three formats for South Africa.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316668.1.png"
+  },
+  {
+    "name": "Tristan Stubbs",
+    "team": "South Africa",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batter",
+    "description": "- Stubbs was one of four players retained by Delhi Capitals (DC) ahead of IPL 2025 for INR 10 crore (USD 1.1 million approx).",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/348500/348577.1.png"
+  },
+  {
+    "name": "Heinrich Klaasen",
+    "team": "South Africa",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "A wicketkeeper-batter known for his belligerent six-hitting, Heinrich Klaasen first got his chance in the South African team as an injury replacement, opening in place of Quinton de Kock, but went on to establish himself in the middle order in limited-overs cricket.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322073.1.png"
+  },
+  {
+    "name": "David Miller",
+    "team": "South Africa",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Middle order Batter",
+    "description": "A hard-hitting left-hander with a penchant for clearing the boundary, David Miller made famous the phrase \"If it's in the arc, it's out the park.\" Miller is a self-styled finisher who is strong off the front and back foot and eager to swing his arms, as well as a gun fielder.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316655.1.png"
+  },
+  {
+    "name": "Arshdeep Singh",
+    "team": "India",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "Arshdeep is one of only three Indian bowlers, after Jhulan Goswami and Ajit Agarkar, to start his T20I career with a maiden over. A death-overs specialist known for his accurate yorkers and 140kph-plus deliveries, he made his international debut in England in 2022.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/390700/390798.5.png"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "team": "India",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "Arguably the most skilful fast bowler India have produced, Jasprit Bumrah has been central to their rise as a Test match power in the late 2010s and onward. All pistoning arms and legs in his unorthodox action and late release, he makes the ball do tricks few people not named Wasim Akram have.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319940.2.png"
+  },
+  {
+    "name": "Kuldeep Yadav",
+    "team": "India",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Wrist spin",
+    "playingRole": "Bowler",
+    "description": "In a relatively dim era for wristspin, Kuldeep Yadav is a bright spark, bowling its rare left-arm variant and challenging batters by taking the pitch out of the equation.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319943.2.png"
+  },
+  {
+    "name": "Reece Topley",
+    "team": "England",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "A left-arm seamer with a fearsome yorker but a chequered injury history, Reece Topley's career was in peril before his 25th birthday as he suffered a series of stress fractures that left him wondering whether he would ever be able to play again.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383150.1.png"
+  },
+  {
+    "name": "Jofra Archer",
+    "team": "England",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "Few cricketers have broken into international cricket with as much breathless anticipation in the lead-up as Archer.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383146.1.png"
+  },
+  {
+    "name": "Sam Curran",
+    "team": "England",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium fast",
+    "playingRole": "Allrounder",
+    "description": "- Sam Curran began his IPL career at Punjab Kings in 2019 and then when he returned the franchise for a second stint in 2023 and 2024, he even captained them",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383153.1.png"
+  },
+  {
+    "name": "Adil Rashid",
+    "team": "England",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Bowler",
+    "description": "Adil Rashid did much to set right English cricket's troubled relationship with legspin when he established himself as the country's leading white-ball spinner in 2015 and four years later was a key part of their World Cup-winning side. At the time of Rashid's recall to the limited-overs set-up in 2015, no legspinner had taken more than five white-ball wickets for England; over the next ten years he took more than 300.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383151.1.png"
+  },
+  {
+    "name": "Chris Jordan",
+    "team": "England",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "Chris Jordan, a fast bowler with a level-headed calmness and a fearsome yorker, found his niche as a death specialist in T20 cricket for England after initially breaking through as a bowling allrounder in Tests and ODIs.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383144.1.png"
+  },
+  {
+    "name": "Liam Livingstone",
+    "team": "England",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak, Legbreak",
+    "playingRole": "Batting Allrounder",
+    "description": "Liam Livingstone broke into the spotlight when he made a T20I hundred off 42 balls against Pakistan in 2021 - the fastest century in the format by an England player. By then he had a reputation in English cricket as a batter equipped with plenty of raw power and the ability to dismantle good bowling attacks, a sharp outfielder, and a useful spinner who could turn the ball either way.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383152.1.png"
+  },
+  {
+    "name": "Phil Salt",
+    "team": "England",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Phil Salt's fearless ball-striking at the top of the Sussex order earned him attention from across the global T20 circuit and a maiden England call-up in 2019, though he was made to wait until 2021 for his debut when he performed a passable impression of Jason Roy in the Covid-hit ODI series against Pakistan.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383141.1.png"
+  },
+  {
+    "name": "Jos Buttler (c)Ã¢â‚¬Â ",
+    "team": "England",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "England have had many players down the ages who have gained world acclaim, but Jos Buttler is arguably their first global T20 superstar. He helped bring their limited-overs batting into the 21st century, and his impact on the one-day and T20 sides was extraordinary as they turned a group-stage exit in the 2015 World Cup into a triumph on home soil four years later.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383143.1.png"
+  },
+  {
+    "name": "Moeen Ali",
+    "team": "England",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batting Allrounder",
+    "description": "Moeen Ali, known fondly as \"the beard that's feared\" at New Road, started out as something of a batting prodigy but it was his offspin that got him his place in the England side after the retirement of Graeme Swann. Fittingly then, it was as an allrounder that he found success.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383142.1.png"
+  },
+  {
+    "name": "Jonny Bairstow",
+    "team": "England",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Combative wicketkeeper-batter Jonny Bairstow was a force in England's upper and middle orders across formats in the 2010s. With Jason Roy, he formed a peerless opening partnership in ODIs that helped deliver a rejuvenated England a first World Cup title in 2019.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383157.1.png"
+  },
+  {
+    "name": "Harry Brook",
+    "team": "England",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Middle order Batter",
+    "description": "Calmly destructive, Brook can easily characterise whatever definition of Bazball is in vogue at that moment. Take his triple-hundred, for example - the first by an Englishman since Graham Gooch's epic in 1990, it came off 310 balls, the second-fastest in Test cricket, behind Virender Sehwag's effort against South Africa in 2008.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383145.1.png"
+  },
+  {
+    "name": "Rahmanullah Gurbaz Ã¢â‚¬Â ",
+    "team": "Afghanistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Fast behind the stumps and explosive in front of them, Rahmanullah Gurbaz had a fast ascent to becoming one of the first names on the Afghanistan team sheet.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383237.1.png"
+  },
+  {
+    "name": "Ibrahim Zadran",
+    "team": "Afghanistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Opening Batter",
+    "description": "Top-order batter Ibrahim Zadran is among Afghanistan's most consistent performers, and young enough to have made his Test debut (in the team's third ever match) before he played a white-ball international. He made 87 in that match in Chattogram, a big, historic win over Bangladesh.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383225.1.png"
+  },
+  {
+    "name": "Gulbadin Naib",
+    "team": "Afghanistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Batting Allrounder",
+    "description": "Gulbadin Naib's first love in sport was amateur bodybuilding, not cricket. When he eventually did take the game up, however, he progressed quickly through Afghanistan's age-group sides as a batting allrounder and was the youngest member of the team that won the Division Five tournament in 2008 - the first stepping stone to the full world stage.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/381900/381925.2.png"
+  },
+  {
+    "name": "Azmatullah Omarzai",
+    "team": "Afghanistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Allrounder",
+    "description": "A fast-bowling allrounder who can strike early in the powerplay and clear the ropes in the death overs, Azmatullah Omarzai has been central to Afghanistan's evolution from a spin-dominated side to a more balanced, multi-dimensional team. Initially seen as a batting prospect with some bowling ability, he steadily honed his skills with the ball and emerged as Afghanistan's leading seam-bowling allrounder, eventually leapfrogging the experienced Gulbadin Naib in the national pecking order.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383229.1.png"
+  },
+  {
+    "name": "Mohammad Nabi",
+    "team": "Afghanistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "Mohammad Nabi has been the guiding hand that steered Afghanistan cricket from obscurity to the big stage. When he first turned out for Afghanistan in 2008, they were battling it out in Division Five of the World Cricket League. Within a decade, he had become one of the central figures in a team that earned Test status in 2017 and went on to reach a T20 World Cup semi-final in 2024.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/381900/381920.2.png"
+  },
+  {
+    "name": "Nangeyalia Kharote",
+    "team": "Afghanistan",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "description": "A left-arm orthodox spinner, Nangeyalia Kharote made his professional debut in the Shpageeza Cricket League as a 16-year-old in 2020 and made an immediate impact, finishing the season as the joint-highest wicket-taker. He was the player of the match in the final and was named the Best Emerging Player of the tournament.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383233.3.png"
+  },
+  {
+    "name": "Karim Janat",
+    "team": "Afghanistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Batting Allrounder",
+    "description": "Karim Janat, the younger brother of former Afghanistan captain Asghar Afghan, made his mark early. At 18, he took three wickets and scored 25 against UAE in Dubai in December 2016, earning Player of the Match on his T20I debut. Two months later, he featured in his first ODI, against Zimbabwe in Harare in February 2017.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383232.1.png"
+  },
+  {
+    "name": "Rashid Khan (c)",
+    "team": "Afghanistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Bowling Allrounder",
+    "description": "Rashid Khan has been Afghanistan's first global superstar, and the key to their successes in their early years in international cricket. His extraordinarily effective legspin has made him one of the greatest T20 bowlers ever, among the first names on wishlists of teams in leagues all around the world.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383228.1.png"
+  },
+  {
+    "name": "Noor Ahmad",
+    "team": "Afghanistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Wrist spin",
+    "playingRole": "Bowler",
+    "description": "Following in the footsteps of his countrymen, Rashid Khan and Mujeeb Ur Rahman, Noor Ahmad is another spinner from Afghanistan who is popular on the franchise T20 league circuit. His rare skillset - left-arm wristspin - led to opportunities across the globe even as a teenager.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383239.1.png"
+  },
+  {
+    "name": "Naveen-ul-Haq",
+    "team": "Afghanistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "A feisty fast bowler with a wide range of slower-ball variations, Naveen-ul-Haq first rose to prominence as a death-overs specialist, but soon developed his new-ball skills to become a useful weapon across phases. Like many of his compatriots, he is an in-demand commodity in franchise leagues across the world.\nBorn in Kabul, Naveen fled with his family to Pakistan in his early years, and began playing tape-ball cricket there. When they returned to Afghanistan, he began playing with a leather ball for the first time. He was so impressive for Afghanistan's Under-16 and Under-19 teams that his first professional match at the senior level was his ODI debut against Bangladesh, just two days after he turned 17.\nNaveen made seven sporadic ODI appearances from his debut to January 2021, and a year later he took a break from the format to focus on the 2022 T20 World Cup. In the meantime, he became an integral part of Afghanistan's T20I side, either side of captaining Afghanistan to a fourth-place finish at the 2018 Under-19 World Cup.\nStints at the BPL, CPL, LPL and the T20 Blast followed as he began to build his reputation. In 2023, Naveen announced he would retire from ODIs after the World Cup that year. He took eight wickets as Afghanistan put in an impressive display in the competition, finishing sixth on the table.\nBy then, he had made his IPL debut as well, taking 11 wickets in his first season for Lucknow Super Giants, and was also in the news for an on-field altercation with Virat Kohli.\nTowards the end of 2024, Naveen along with team-mates Fazalhaq Farooqi and Mujeeb-ur-Rahman got in trouble with the Afghanistan Cricket Board after they asked to be released from their central contracts so they could sign up for more franchise leagues. The board responded by revoking the players' NOCs and denying them further NOCs for the next two years. The situation was resolved with the board agreeing to grant them a limited number of NOCs and slapping them with financial penalties.\nNaveen returned 14 wickets in IPL 2024, but it was in the T20 World Cup that year that he really shone. Naveen and Farooqi combined to take the spotlight away from Afghanistan's spinners as they made the semi-finals of a World Cup for the first time. Naveen finished the tournament with 13 wickets, and his three-wicket burst was one of the highlights of Afghanistan's first-ever victory over Australia in any format.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383238.1.png"
+  },
+  {
+    "name": "Fazalhaq Farooqi",
+    "team": "Afghanistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "A left-arm quick who can swing the ball both ways at pace, it didn't take Fazalhaq Farooqi long to become the leader of Afghanistan's pace attack in white-ball cricket after he made his international debut in 2021.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383236.1.png"
+  },
+  {
+    "name": "Tanzim Hasan Sakib",
+    "team": "Bangladesh",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowling Allrounder",
+    "description": "Tanzim Hasan Sakib was Bangladesh's best-performing fast bowler in the T20 World Cup in 2024. He took 11 wickets at an average of 13.54, with a career-best bowling performance of 4 for 7 against Nepal. Tanzim bowled with pace, extracting seam or swing offered by conditions and the mostly favourable pitches in the USA and the West Indies. He was so good at the World Cup that the Bangladesh team management couldn't use Shoriful Islam for even one match after Tanzim had replaced the in-form left-arm quick at the start of the tournament.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/382800/382811.1.png"
+  },
+  {
+    "name": "Taskin Ahmed",
+    "team": "Bangladesh",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "The leader of Bangladesh's fast-bowling attack in the post-Mashrafe Mortaza era, Taskin Ahmed had two phases in his international career: before and after injuries and poor form forced him into the wilderness for three years. He was quick but often erratic in his first phase, but when he made his comeback in 2021, he had matured into a disciplined fast bowler, and went on to rank among Bangladesh's top wicket-takers in the white-ball formats",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316700/316703.1.png"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "team": "Bangladesh",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "description": "Easily the finest player Bangladesh have produced, Shakib Al Hasan is a canny, consistent and accurate bowler and an aggressive batter with a wide range of strokes in his repertoire. He has spent long periods at the top of the ICC's allrounder rankings across formats, a validation of his stature in the game.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316581.1.png"
+  },
+  {
+    "name": "Mustafizur Rahman",
+    "team": "Bangladesh",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "Mustafizur Rahman is a left-arm pace bowler who came to Dhaka to try out for a fast-bowling camp in 2012, after he had impressed in an Under-17 tournament in Satkhira, some 300km from Dhaka. He got admitted to the BCB's pace foundation and soon caught the coaches' attention to make the Bangladesh Under-19 side for the 2014 World Cup.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319734.3.png"
+  },
+  {
+    "name": "Rishad Hossain",
+    "team": "Bangladesh",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Allrounder",
+    "description": "Rishad Hossain emerged as one of Bangladesh's best performers at the 2024 T20 World Cup - he finished equal (with Rashid Khan) on 14 wickets, in third place, which was even more impressive since he comes from a country with almost no history of fielding legspinners at the highest level.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/382800/382809.1.png"
+  },
+  {
+    "name": "Litton Das Ã¢â‚¬Â ",
+    "team": "Bangladesh",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Litton Das made his way into the Bangladesh senior sides following his exploits for Abahani in the Dhaka Premier League, and Rangpur Division in the National Cricket League in 2014-15, where he was the top scorer.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319727.1.png"
+  },
+  {
+    "name": "Tanzid Hasan",
+    "team": "Bangladesh",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Opening Batter",
+    "description": "Tanzid Hasan pipped the likes of Mohammad Naim, Rony Talukdar and Soumya Sarkar among Bangladesh's openers who could replace Tamim Iqbal in the long term. Tanzid's nickname is also Tamim, and many have found similarities between the two, at least in their aggression at a young age. For just how long Tanzid can stay on as the first choice, depends on his consistency.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392000/392065.2.png"
+  },
+  {
+    "name": "Najmul Hossain Shanto (c)",
+    "team": "Bangladesh",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Top order Batter",
+    "description": "Although he made his debut in 2017, and scored two Test hundreds in 2021, it took Najmul Hossain Shanto more than five years to truly establish himself in the Bangladesh side. But once he did, he was rewarded by being appointed Bangladesh's captain in all three formats.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323100/323155.1.png"
+  },
+  {
+    "name": "Soumya Sarkar",
+    "team": "Bangladesh",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Batting Allrounder",
+    "description": "A rarity among Bangladesh allrounders, top-order batter Soumya Sarkar bowls medium pace rather than spin, and occasionally even takes the new ball.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/385800/385821.1.png"
+  },
+  {
+    "name": "Towhid Hridoy",
+    "team": "Bangladesh",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Top order Batter",
+    "description": "When Towhid Hridoy made 918 runs across formats in 2023, his first year in international cricket, it gave Bangladesh cause to think they had found the next big thing, especially considering their batting as a whole was struggling at the time.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/380200/380236.1.png"
+  },
+  {
+    "name": "Mahmudullah",
+    "team": "Bangladesh",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "Allrounder Mahmudullah, a middle-order batter who bowls useful offspin and is one of Bangladesh's best fielders of all time, grew into one of the five pillars of the country's set-up in their post-2010 period of growth and relative success. He is in the modern group of allrounders who have aggregated 10,000 runs, 100 wickets and 100 catches in international cricket across formats.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/382800/382810.1.png"
+  },
+  {
+    "name": "Mitchell Starc",
+    "team": "Australia",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Fast",
+    "playingRole": "Bowler",
+    "description": "First there was Johnson, then there was Starc: a left-armer called Mitchell has long been a staple of Australia's attack. Starc will go down as one of the country's finest all-format bowlers - only the second Australian fast bowler after Glenn McGrath to play 100 Tests, and the fourth bowler from the country to have taken 400 Test wickets.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/390900/390978.5.png"
+  },
+  {
+    "name": "Josh Hazlewood",
+    "team": "Australia",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "A tall, accurate fast bowler who is unrelenting in his line and length, Josh Hazlewood became a fixture in Australia's Test attack as soon as he made his debut in 2014 and went on to enjoy success across formats, taking just under 500 international wickets in his first dozen years in the game - despite a handful of injury-enforced layoffs.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/390900/390976.5.png"
+  },
+  {
+    "name": "Pat Cummins",
+    "team": "Australia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "Earmarked as a potential star from a young age, Pat Cummins made his Test debut as an 18-year-old but had to wait six years for his next appearance as injuries struck a body that could not withstand the workload. The bowler who emerged in 2017 was a thoroughbred quick who became one of the standout players in the world and, in late 2021, Australia's Test captain in dramatic circumstances. By 2023 he had led the team to the World Test Championship and ODI World Cup.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/390900/390954.5.png"
+  },
+  {
+    "name": "Adam Zampa",
+    "team": "Australia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Bowler",
+    "description": "Adam Zampa has developed into Australia's leading white-ball spinner, and only behind Shane Warne to have done the role in the limited-overs formats.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321549.1.png"
+  },
+  {
+    "name": "Marcus Stoinis",
+    "team": "Australia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Batting Allrounder",
+    "description": "A powerful, versatile batter and medium-pace bowler, Marcus Stoinis has been a mainstay in Australia's limited-overs sides, a dominant presence in the BBL, and a sought-after IPL performer.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321596.2.png"
+  },
+  {
+    "name": "David Warner",
+    "team": "Australia",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Opening Batter",
+    "description": "David Warner's extraordinary batting feats in all three formats for Australia will forever be overshadowed by his role as the chief protagonist of the Newlands ball-tampering scandal of 2018 and his place as a central figure in Australian cricket's ensuing cultural crisis.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316589.1.png"
+  },
+  {
+    "name": "Travis Head",
+    "team": "Australia",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Middle order Batter",
+    "description": "A talented, aggressive left-hand batter earmarked for big things at a young age, it was Travis Head's second coming as an international cricketer where his career really took off. In late 2021 he was recalled for the Ashes series and made a match-defining 85-ball century at the Gabba - it set the tone for a string of destructive Test innings while he also reemerged as a white-ball force, so central to Australia's 2023 ODI World Cup plans that they waited for him to recover from a broken hand. In the final against India he made 137 off 120 balls. A cult hero was born.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321584.2.png"
+  },
+  {
+    "name": "Mitchell Marsh (c)",
+    "team": "Australia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "description": "Mitchell Marsh, one of the most well-known surnames in Australian cricket, had been an alluring prospect for many years but struggled to cement a place across formats. However, that has changed in recent years, starting in T20 and then taking in ODIs and, for a golden year at least, Test cricket.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/385700/385798.1.png"
+  },
+  {
+    "name": "Glenn Maxwell",
+    "team": "Australia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batting Allrounder",
+    "description": "One of the fastest scorers in world cricket, Glenn Maxwell has lit up the limited-overs formats. His ability to make unconventional shots - reverse sweeps and pulls, for example - appear routine makes it hard to set fields to cover all of his scoring areas. Maxwell's audacity comes with risk, and he can exasperate as well as exhilarate, but at his best he can change a game in moments. His offspin is better than part time and he has been an outstanding fielder.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/389500/389563.5.png"
+  },
+  {
+    "name": "Tim David",
+    "team": "Australia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Middle order Batter",
+    "description": "Mumbai Indians' (MI) decision to sign Tim David for INR 8.25 crore (AUD 1.5 million) at the 2022 IPL auction confirmed two things. Firstly, that the game's formats had diverged so much that a man without a state contract or even a first-class appearance to his name could be worth such a sum; and secondly, that David had become one of the world's most sought-after T20 finishers over the previous 12 months.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/340300/340305.1.png"
+  },
+  {
+    "name": "Matthew Wade Ã¢â‚¬Â ",
+    "team": "Australia",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "It has been a career of reinvention for Matthew Wade, who went from Test wicketkeeper to specialist middle-order batter to T20I World Cup-winning wicketkeeper-finisher, via a prolific run in domestic cricket when it appeared his international days were over.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316594.1.png"
+  },
+  {
+    "name": "Kyle Mayers",
+    "team": "West Indies",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Batting Allrounder",
+    "description": "On his Test debut in 2021, Kyle Mayers scaled the impossible. Batting in Chattogram against Bangladesh after several first-choice players opted out of the Covid pandemic-affected tour, he scored an extraordinary 210 in the fourth innings, steering West Indies to a successful chase of 395. His innings - most of which was compiled in the company of fellow debutant Nkrumah Bonner during a 216-run fourth-wicket partnership - remains one of the most remarkable rookie acts in the history of the game.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322024.1.png"
+  },
+  {
+    "name": "Shai Hope",
+    "team": "West Indies",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Shai Hope made his Test debut as a 21-year-old - getting his cap from Clive Lloyd - having played just over a dozen first-class matches.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320100/320122.1.png"
+  },
+  {
+    "name": "Nicholas Pooran Ã¢â‚¬Â ",
+    "team": "West Indies",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Nicholas Pooran, the foremost of the second generation of West Indian T20 stars, retired from international cricket at 29, a paradox of the modern game and one of its most prominent exponents. The month after he hung up his boots in international cricket, he led MI New York to their second Major League Cricket title.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320100/320109.2.png"
+  },
+  {
+    "name": "Roston Chase",
+    "team": "West Indies",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "A tall offspin-bowling allrounder, Roston Chase earned the nickname \"Crisis Man\" after bailing out Barbados and West Indies on a number of occasions.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322039.1.png"
+  },
+  {
+    "name": "Rovman Powell (c)",
+    "team": "West Indies",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Middle order Batter",
+    "description": "A middle-order batter who bowls occasional medium pace, Rovman Powell has been a semi-regular presence in West Indies' white-ball squads from the mid-2010s without quite nailing down a spot.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322100/322172.1.png"
+  },
+  {
+    "name": "Sherfane Rutherford",
+    "team": "West Indies",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Middle order Batter",
+    "description": "Sherfane Rutherford made a name as a short-format allrounder, who can bowl medium pace and produce impactful cameos with the bat. His domestic career started with first-class games for Guyana in two seasons from 2016-17. Rutherford made his T20 debut in CPL 2018, just days short of turning 20, and hasn't looked back since. He smashed 171 runs at a strike rate of 142 for Guyana Amazon Warriors, and made his T20I debut for West Indies on the tour of Bangladesh later that year.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322100/322173.1.png"
+  },
+  {
+    "name": "Andre Russell",
+    "team": "West Indies",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Allrounder",
+    "description": "A world-class seam-bowling allrounder from Jamaica, Andre Russell made his first-class debut at 19 and Test debut at 22, but it is as a T20 legend, sought after by every franchise league in the world, that he will be remembered.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/405300/405306.2.png"
+  },
+  {
+    "name": "Akeal Hosein",
+    "team": "West Indies",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "description": "A left-arm fingerspinner known for his relentless accuracy, Hosein is thrifty while also retaining the ability to take wickets - which makes him a valuable T20 asset, especially in the powerplay. He played a vital role in Trinbago Knight Riders' CPL win in 2020, taking ten wickets at an economy of 5.5 from seven matches. A few months later, at 27, he got his break in international cricket when several senior West Indies players opted out of a tour of Bangladesh due to Covid-19 concerns. Hosein took three wickets on ODI debut.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321900/321939.1.png"
+  },
+  {
+    "name": "Alzarri Joseph",
+    "team": "West Indies",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "Tall fast bowler Alzarri Joseph started out as a legspinner in his backyard in Antigua before his height marked him out for a different style of bowling. In his teens he gained a reputation as one of the fastest bowlers on the school circuit, which carried over into the 2016 Under-19 World Cup, where he bowled the competition's fastest delivery, a 147kph zinger that broke Zimbabwe batter Brendan Sly's stumps. Joseph would finish as West Indies' highest wicket-taker of the tournament, with 13 wickets from six games at an economy of 3.31.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321900/321943.1.png"
+  },
+  {
+    "name": "Gudakesh Motie",
+    "team": "West Indies",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox, Left arm Wrist spin",
+    "playingRole": "Bowler",
+    "description": "One of many Guyanese cricketers of Indian heritage, Gudakesh Motie is a tall left-arm spinner who, despite a short international career so far, has become West Indies' primary spinner across formats. Outside his home country of Guyana, Motie's name first came up during the 2014 Under-19 World Cup. He didn't set the stage alight, returning six wickets in six bowling innings at 34.83, but has built steadily since, as his numbers across formats show. First came a T20I debut, against Pakistan in Karachi in late 2021, and the Test and ODI debuts followed, at home against Bangladesh in mid-2022.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/405200/405294.2.png"
+  },
+  {
+    "name": "Obed McCoy",
+    "team": "West Indies",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "A left-arm fast bowler from the Windward Islands, Obed McCoy's skilful changes in pace made him a natural fit for the T20 format.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322031.1.png"
+  },
+  {
+    "name": "Steven Taylor",
+    "team": "United States of America",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Opening Batter",
+    "description": "One of the best homegrown talents in the modern generation of USA cricket, Steven Taylor's imposing physical presence makes him capable of destructive power-hitting, a rare characteristic at Associate level.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/389400/389472.5.png"
+  },
+  {
+    "name": "Andries Gous Ã¢â‚¬Â ",
+    "team": "United States of America",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/393400/393407.2.png"
+  },
+  {
+    "name": "Nitish Kumar",
+    "team": "United States of America",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Top order Batter",
+    "description": "A useful allrounder, Nitish Kumar played in all but one of Canada's eight matches at the 2010 Under-19 World Cup Qualifiers. He is also the youngest player to debut for Canada in a first-class match when he played in an ICC Intercontinental Cup fixture against Kenya in August 2009, and then subsequently became the second youngest ODI player in February 2010 at the age of 15 years 273 days - only eclipsed by Pakistan's Hasan Raza in 1996.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383209.1.png"
+  },
+  {
+    "name": "Aaron Jones (c)",
+    "team": "United States of America",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Top order Batter",
+    "description": "Aaron Jones grew up playing alongside Shai Hope and Jason Holder and against Nicholas Pooran and Rovman Powell. He scored a half-century for Barbados on his first-class debut in 2017. But in 2018, Jones, who was born in New York, switched to playing for USA and quickly became a mainstay of the side. His maiden List A century, against Namibia in the WCL Division 2 in 2019, helped USA earn the side ODI status during that competition.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/391400/391444.2.png"
+  },
+  {
+    "name": "Corey Anderson",
+    "team": "United States of America",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium fast",
+    "playingRole": "Batting Allrounder",
+    "description": "Corey Anderson had always been known for his powerful striking, but he took it to a new level on New Year's Day 2014 when he set what was then the world record for the fastest ODI hundred with a 36-ball blitzkrieg against West Indies in Queenstown. It came at a time, a few months after he scored a century in his second Test, that Anderson was suggesting he was ready to fulfill the potential spotted in him as a teenager.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383214.1.png"
+  },
+  {
+    "name": "Milind Kumar",
+    "team": "United States of America",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392115.2.png"
+  },
+  {
+    "name": "Harmeet Singh",
+    "team": "United States of America",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowling Allrounder",
+    "description": "Delivering with a still head, equipped with a loopy delivery, strapped with a big heart to flight the ball, Harmeet Singh attracted instant praise from coaches and players alike. The former Indian batting stalwart Dilip Sardesai compared Harmeet to his contemporary and spin legend Bishen Bedi the first time he witnessed the Mumbai youngster in action. By 19, Harmeet had featured in two Under-19 World Cups. In his first attempt, in 2010, he proved far too expensive for the team management to retain him in the team regularly. Hungry and resilient to prove his worth two years later, his economy rate of 3.02 was one of the best, despite him missing a couple of matches due to being sick. Importantly, he was one of the main pillars of India winning the title.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392122.2.png"
+  },
+  {
+    "name": "Shadley van Schalkwyk",
+    "team": "United States of America",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "description": "Shadley van Schalkwyk came through as a fast-medium bowler for Eagles and Free State. A product of the famous Wynberg Boys' High School, whose alumni includes Jacques Kallis and Allan Lamb. After impressing with the bat on a tour to Pakistan with his school side in 2006, he was drafted into the South African Academy. He made his List A debut for Western Province in February 2008, and had a quiet time in his first first-class appearance nine months later. He played every game of Eagles' 2009 Pro20 series, and was part of their squad for the inaugural Champions League Twenty20 the same year.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392116.2.png"
+  },
+  {
+    "name": "Ali Khan",
+    "team": "United States of America",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "Few US players have had a more unusual path to international cricket than Ali Khan. Born and raised in Pakistan, he moved to USA with his parents at the age of 18, settling in Ohio. He was a regular in various private T20 cricket tournaments around the USA, but it wasn't until ICC Americas organised an open trial at Indianapolis in September 2015 that he gained wider attention on the national scene.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383217.1.png"
+  },
+  {
+    "name": "Nosthush Kenjige",
+    "team": "United States of America",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383218.1.png"
+  },
+  {
+    "name": "Saurabh Netravalkar",
+    "team": "United States of America",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "A tall left-arm fast bowler, Saurabh Netravalkar took 30 wickets in six games in the Cooch Behar Trophy in 2008-09. In 2010, he was India's highest wicket-taker at the Under-19 World Cup in New Zealand. He had hoped his performance would pave the way for a berth in the senior Mumbai set-up, and perhaps even an IPL contract. But the presence of Ajit Agarkar, Zaheer Khan, Aavishkar Salvi and a young Dhawal Kulkarni made it difficult for the youngster to break into the Mumbai side.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383213.1.png"
+  },
+  {
+    "name": "Ashton Agar",
+    "team": "Australia",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "description": "Ashton Agar initially turned almost as many heads as he has turned cricket balls. At the age of 19 he had a place in the squads of Western Australia, Perth Scorchers, and the national team, having sensationally been upgraded from an internship on the 2013 tour of India to a more expansive role in Michael Clarke's squad.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321559.1.png"
+  },
+  {
+    "name": "Mahedi Hasan",
+    "team": "Bangladesh",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "Bangladesh allrounder Mahedi Hasan - not to be confused with his team-mate Mehidy Hasan Miraz - is an accurate offspinner, gun fielder, and a capable batter at various slots in the order, whom Bangladesh's coach in the early 2020s, Russell Domingo, once described as a \"three-in-one cricketer\".",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/380200/380237.1.png"
+  },
+  {
+    "name": "Jaker Ali",
+    "team": "Bangladesh",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Attacking batter Jaker Ali was among a group of players who made six-hitting a regular feature of Bangladesh's white-ball sides in the 2020s.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/389500/389548.5.png"
+  },
+  {
+    "name": "Johnson Charles",
+    "team": "West Indies",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322008.1.png"
+  },
+  {
+    "name": "Mark Wood",
+    "team": "England",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "England quick bowler Mark Wood, tremendously fast but frequently injured, has in his brief career been something of a cautionary tale like many other out and out fast men in modern times. Unlike some of his other similarly ill-starred counterparts, Wood, despite multiple setbacks, particularly injuries to his ankle, did not compromise his speeds for a longer career. Instead, he abandoned the short run-up that had marked his career until about mid-2018 for a longer one that would put less pressure on his body and still allow him to crank out top speeds.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383149.2.png"
+  },
+  {
+    "name": "Ottneil Baartman",
+    "team": "South Africa",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/381700/381731.5.png"
+  },
+  {
+    "name": "Hazratullah Zazai",
+    "team": "Afghanistan",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Opening Batter",
+    "description": "Afghanistan's ascent up the global rankings from ICC Associate nation to Full Member and Test status has been largely propelled by a conveyor belt of fast bowling and mystery spin. But the country has struggled to unearth quality batting prospects at the same rate as their bowling unit. The emergence of the hard-hitting Hazratullah Zazai is a sign that this may change early in the country's Full Member era.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383222.1.png"
+  },
+  {
+    "name": "Najibullah Zadran",
+    "team": "Afghanistan",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Middle order Batter",
+    "description": "Najibullah Zadran packs a punch with his bellicose left-hand batting, despite his slight frame. He has followed the same tried and tested route to the national side as many of his generation that came after the initial Afghan cricketing pioneers, with age-group cricket preparing him for the big stage. His ODI debut, against Ireland in Dublin in 2012, was possibly a little premature but Zadran's batting turned a corner in 2014 and he started to look more at home. In July, his second-innings 99 helped Afghanistan beat a strong Zimbabwe A side in an unofficial Test, and in November his unbeaten 32-ball 60 helped set up a 54-run win over Pakistan A in a Twenty match. He started 2015 well with a maiden ODI fifty, a boundary-laden 83 against Ireland, and cruised into Afghanistan's World Cup squad.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/381900/381935.2.png"
+  },
+  {
+    "name": "Brandon King",
+    "team": "West Indies",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Top order Batter",
+    "description": "Brandon King got his start as a solid middle-order batter for Jamaica before a promotion to the top order in the CPL unlocked his power-hitting potential, and culminated in a call-up to West Indies' white-ball side.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321900/321983.1.png"
+  },
+  {
+    "name": "Romario Shepherd",
+    "team": "West Indies",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowling Allrounder",
+    "description": "A bowling allrounder, Romario Shepherd started for Guyana in domestic cricket with the List A format in 2016 and then first-class in 2017. But his hard-hitting batting as a finisher has instead helped him become a T20 specialist.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/403700/403798.2.png"
+  },
+  {
+    "name": "Jasdeep Singh",
+    "team": "United States of America",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "description": "His exuberant celebrations make Jessy Singh hard to miss on the field for USA. Born in New York, Jessy's family moved back to Punjab when he was 3 before he returned to New Jersey at age 13. Jessy was one of the last players cut at trials for the 2011 U-19 World Cup qualifier squad that toured Ireland, but used that as motivation for developing into a medium-pace talent at the senior level.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383212.1.png"
+  },
+  {
+    "name": "Shayan Jahangir",
+    "team": "United States of America",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/380400/380454.6.png"
+  },
+  {
+    "name": "Tony Ura",
+    "team": "Papua New Guinea",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Opening Batter",
+    "description": "Tony Ura is a right-hand batsman and wicketkeeper who began playing cricket at the age of 12. He had guidance from his father, Pala, and brother, Vali, who were both prominent cricketers and broke into the Papua New Guinea's Under-15 and U-19 sides. Tony helped PNG qualify for the U-19 World Cup in 2008 by scoring a rapid 74 against Vanuatu in the qualifiers, and smashed 76 in 55 balls against Bermuda to hand his team a famous win in the competition. He prepared for the Under-19 World Cup in New Zealand in 2010 by playing club cricket in Melbourne.\nCricinfo staff January 2010",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386900/386936.5.png"
+  },
+  {
+    "name": "Assad Vala (c)",
+    "team": "Papua New Guinea",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321100/321136.1.png"
+  },
+  {
+    "name": "Charles Amini",
+    "team": "Papua New Guinea",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Allrounder",
+    "description": "CJ Amini comes from a long line of Papua New Guinea cricketing royalty. The third generation of his family to represent the country in cricket, CJ's grandfather Brian and father Charles were both national captains, as was his mother, Kune, for the women's side. His older brother Chris also captained the men's side, while his aunt Cheryl and other brother Colin played for representative PNG sides, leaving little doubt about CJ's future career path.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321100/321138.1.png"
+  },
+  {
+    "name": "Sese Bau",
+    "team": "Papua New Guinea",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Middle order Batter",
+    "description": "A prolific left-handed batsman who plays for the United Club in Port Moresby, Sese Bau scored 171 runs in the Under-19 World Cup Qualifiers. His cricketing hero is Adam Gilchrist, and his ambition is to represent Papua New Guinea's senior team at an ICC Cricket World Cup.\nCricinfo Staff, January 2010",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321100/321159.1.png"
+  },
+  {
+    "name": "Hiri Hiri",
+    "team": "Papua New Guinea",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Middle order Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386900/386937.5.png"
+  },
+  {
+    "name": "Chad Soper",
+    "team": "Papua New Guinea",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "Chad Soper's style of play, perhaps his entire career, is symbolic of most things to do with Papua New Guinea's national team. He does not have eye-popping talent, bowling stump-to-stump, often with the keeper standing up to the stumps, but his blue-collar work ethic has made him a staple of the national team.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321100/321137.1.png"
+  },
+  {
+    "name": "Kiplin Doriga Ã¢â‚¬Â ",
+    "team": "Papua New Guinea",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321100/321149.1.png"
+  },
+  {
+    "name": "Norman Vanua",
+    "team": "Papua New Guinea",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321100/321154.1.png"
+  },
+  {
+    "name": "Alei Nao",
+    "team": "Papua New Guinea",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321100/321135.1.png"
+  },
+  {
+    "name": "Kabua Morea",
+    "team": "Papua New Guinea",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Medium",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386900/386938.5.png"
+  },
+  {
+    "name": "Semo Kamea",
+    "team": "Papua New Guinea",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Fast",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392000/392086.5.png"
+  },
+  {
+    "name": "Trent Boult",
+    "team": "New Zealand",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "- Trent Boult has been a part of the IPL since IPL 2015 as a new-ball strike bowler plying his trade for a succession of teams. He has played for Sunrisers Hyderabad (SRH), Kolkata Knight Riders (KKR), Delhi Capitals (DC), Mumbai Indians (MI) and Rajasthan Royals (RR).",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383185.1.png"
+  },
+  {
+    "name": "Tim Southee",
+    "team": "New Zealand",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "Tim Southee, a right-arm swing bowler, burst upon the international scene in great style. He was still only 19, with only one T20I cap behind him, and fresh from a Player-of-the-Tournament performance at the 2008 Under-19 World Cup when he was handed a Test debut against England in Napier. Southee responded with 5 for 55 before smashing 77 off 40 balls in the second innings with nine sixes.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383184.1.png"
+  },
+  {
+    "name": "Lockie Ferguson",
+    "team": "New Zealand",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "Fiercely quick right-arm fast bowler Lockie Ferguson made an impact at the 2019 ODI World Cup in England with his bruising pace and bounce, taking 21 wickets at under 20 runs apiece and an economy rate of 4.88 - the second most wickets in the tournament.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383174.1.png"
+  },
+  {
+    "name": "Ish Sodhi",
+    "team": "New Zealand",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Bowler",
+    "description": "Indian-origin legspinner Ish Sodhi moved to Auckland with his parents as a child, left school early and trained with Dipak Patel and Matt Horne to make it into the New Zealand ranks as a 20-year-old. A decade into his career, he was New Zealand's most prolific T20I spinner, and not too far behind in ODIs.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383170.1.png"
+  },
+  {
+    "name": "Mitchell Santner",
+    "team": "New Zealand",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowling Allrounder",
+    "description": "Spin-bowling allrounder Mitchell Santner made it to the New Zealand side as a replacement for his left-armer predecessor Daniel Vettori, and though he only played 30-odd Tests in his first decade in international cricket, he went on to captain them in the white-ball formats.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383180.1.png"
+  },
+  {
+    "name": "Finn Allen",
+    "team": "New Zealand",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Top order Batter",
+    "description": "An opening batter who can also keep wicket, Finn Allen is arguably the hardest hitter of a cricket ball in New Zealand. His ability to go hard from ball one, and keep going hard, makes him a model opener in T20 cricket. He needed just four overs at the SCG in the 2022 T20 World Cup to put Australia on the brink of elimination.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383164.1.png"
+  },
+  {
+    "name": "Devon Conway Ã¢â‚¬Â ",
+    "team": "New Zealand",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Devon Conway IPL factfile",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383148.1.png"
+  },
+  {
+    "name": "Rachin Ravindra",
+    "team": "New Zealand",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Batting Allrounder",
+    "description": "A dynamic batter, who can slot in at the top as well as in the middle order, and bowl left-arm fingerspin, Rachin Ravindra was earmarked to become a future batting leader for New Zealand right from his Under-19 days.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383182.1.png"
+  },
+  {
+    "name": "Kane Williamson (c)",
+    "team": "New Zealand",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Top order Batter",
+    "description": "By the time Kane Williamson is finished with playing cricket, it is probable he will be New Zealand's greatest batter - as held by no less than Martin Crowe. He might also finish as one of the game's most loved figures globally, admired for his affability, equanimity and sense of self-deprecation.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383172.1.png"
+  },
+  {
+    "name": "Daryl Mitchell",
+    "team": "New Zealand",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Batting Allrounder",
+    "description": "Daryl Mitchell was called into New Zealand's Test team in late 2019 as a replacement for the injured Colin de Grandhomme. He impressed, making an assured 73 against England in his first innings and bowling with good control on a sluggish surface at his home ground, Hamilton.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383147.2.png"
+  },
+  {
+    "name": "Pathum Nissanka",
+    "team": "Sri Lanka",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Top order Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323000/323070.1.png"
+  },
+  {
+    "name": "Kusal Mendis Ã¢â‚¬Â ",
+    "team": "Sri Lanka",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Blessed with a compact technique, an aggressive impulse, and an iron resolve, Kusal Mendis rose rapidly through the age-group system, and quickly became one of the most promising young batsmen in the world. He had played only 16 first-class innings before he made his Test debut at the age of 20, and had hit only one first-class hundred before he made a maiden Test ton. That hundred - the 176 against Australia at Pallekele - was a match-flipping, series-defining knock, which given the fact no other batsman mustered more than 55 in the game, is one of the greatest ever Sri Lankan innings. Since then, Mendis has put together some impressive ODI innings as well, and has embedded himself in the Test top four.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319800/319866.2.png"
+  },
+  {
+    "name": "Kamindu Mendis",
+    "team": "Sri Lanka",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak, Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "description": "Though foremost a batsman who scores heavily square of the wicket, it is for his unique skill set with the ball that Kamindu Mendis had gained an international reputation long before he entered a national squad. He bowls finger spin with both arms, and does it with skill and accuracy - his offbreaks not quite as good as his left-arm orthodox, but not far off. Understandably, his potential has impressed coaches. In the age of T20, a bowler who can spin it away from both right and left-handers, not to mention employ different lines of attack to the same batsman, could potentially have team owners and data analysts drooling, so long as Kamindu continues to develop those skills.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/329900/329938.1.png"
+  },
+  {
+    "name": "Dhananjaya de Silva",
+    "team": "Sri Lanka",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "A stylish middle-order batter who also props up Sri Lanka's mediocre batting line-up with fighting knocks, de Silva is a treat to watch.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319800/319859.2.png"
+  },
+  {
+    "name": "Charith Asalanka",
+    "team": "Sri Lanka",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batting Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/348500/348599.1.png"
+  },
+  {
+    "name": "Angelo Mathews",
+    "team": "Sri Lanka",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "description": "A robust batting technique, nagging consistency with the ball, athleticism in the field, and an imperturbable temperament made Angelo Mathews one of Sri Lanka's most prized assets, although persistent injuries and several standoffs with the Sri Lankan board prevented him from achieving his full potential.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/355600/355644.2.png"
+  },
+  {
+    "name": "Dasun Shanaka",
+    "team": "Sri Lanka",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "description": "An explosive middle-order batsman, and steady right-arm seam bowler, Dasun Shanaka worked his way into Sri Lanka's T20 side through several seasons of good performances for Sinhalese Sports Club. Born and educated in Negombo, Shanaka made his T20 international debut against Pakistan in August 2015, but it wasn't until the following domestic season that he achieved wide acclaim. Batting at No. 4 in an AIA Premier T20 match against Saracens Sports Club, Shanaka struck a Sri Lankan record 16 sixes in an innings worth 123 from 46 balls. That wasn't even his biggest T20 score of the last week. He had hit 131 off 48 balls against Galle Cricket Club one week earlier.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/328000/328058.2.png"
+  },
+  {
+    "name": "Wanindu Hasaranga (c)",
+    "team": "Sri Lanka",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Allrounder",
+    "description": "A bruising lower-middle order batsman, and an aggressive legbreak bowler, Wanidu Hasaranga graduated from a strong Richmond College outfit, had a fine run in Sri Lanka's 2015 and 2016 Under-19 teams, and has made a promising start to his domestic cricket career.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322900/322946.1.png"
+  },
+  {
+    "name": "Vivian Kingma",
+    "team": "Netherlands",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/368000/368049.1.png"
+  },
+  {
+    "name": "Aryan Dutt",
+    "team": "Netherlands",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Bowler",
+    "description": "A tall offspinner, Aryan Dutt makes good use of his six-foot frame while bowling and gets plenty of revs on the ball.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/368000/368048.1.png"
+  },
+  {
+    "name": "Logan van Beek",
+    "team": "Netherlands",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "Allrounder Logan van Beek came to global attention when he single-handedly ensured West Indies would not make it to the ODI World Cup for the first time in their history. In the Qualifier tournament in Zimbabwe in June 2022, he first lashed 28 off 14 balls to tie the scores in a chase of 374, then smacked three sixes and as many fours off Jason Holder in the Super Over, and sealed the deal with two wickets when West Indies batted.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/331100/331170.3.png"
+  },
+  {
+    "name": "Paul van Meekeren",
+    "team": "Netherlands",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "Paul van Meekeren drew attention to himself during the World Twenty20 qualifiers in 2016 when he produced a spell of 4 for 11 against Ireland. A trial match at Taunton Vale, plus the success of his Dutch compatriot Timm van der Gugten at Glamorgan, was enough for Somerset to offer him a short-term deal midway through the 21016 season which they extended to a two-year deal until the end of the 2018 season. He made his Somerset first-class debut against the Pakistan tourists and followed up with T20 and List-A debuts for the Club in the same season, catching the eye in a NatWest T20 Blast fixture at Cardiff where he bowled with genuine pace. The following season, in his sole Championship appearance, he took four wickets on debut against Essex at Chelmsford.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/381700/381737.3.png"
+  },
+  {
+    "name": "Tim Pringle",
+    "team": "Netherlands",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392160.2.png"
+  },
+  {
+    "name": "Bas de Leede",
+    "team": "Netherlands",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Batting Allrounder",
+    "description": "Born into one of Dutch cricket's best-known families, Bas de Leede followed in the footsteps of his father, Tim, to become a cornerstone of the Netherlands side. A seam-bowling allrounder, he debuted for the national team in 2018 at 19 and quickly became a fixture in both white-ball formats.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/381700/381734.3.png"
+  },
+  {
+    "name": "Michael Levitt",
+    "team": "Netherlands",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Top order Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/368000/368043.1.png"
+  },
+  {
+    "name": "Max O'Dowd",
+    "team": "Netherlands",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Opening Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/381700/381736.2.png"
+  },
+  {
+    "name": "Vikramjit Singh",
+    "team": "Netherlands",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Opening Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/368000/368038.1.png"
+  },
+  {
+    "name": "Sybrand Engelbrecht",
+    "team": "Netherlands",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "Long before he turned out in Dutch orange, allrounder Sybrand Engelbrecht stole the spotlight with a stunning two-handed, diving catch at point for South Africa during the 2008 Under-19 World Cup in Malaysia - headlined on YouTube as 'the Best ever catch in cricket history'. But Engelbrecht struggled to take his sensational fielding into other aspects of his game. The bulk of his career was spent trying to become a franchise regular at Cape Cobras, where he often had to settle for a place in the provincial side instead.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392159.2.png"
+  },
+  {
+    "name": "Scott Edwards (c)Ã¢â‚¬Â ",
+    "team": "Netherlands",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Born in Tonga and raised in Australia, Scott Edwards made his Netherlands debut in 2017 and decided to abandon his electrical apprenticeship and commit to Dutch cricket. Five years later, he was established in the side as an innovative middle-order batter and wicketkeeper, and took over the captaincy when Pieter Seelaar retired.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322500/322592.1.png"
+  },
+  {
+    "name": "Nuwan Thushara",
+    "team": "Sri Lanka",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/381300/381395.7.png"
+  },
+  {
+    "name": "Maheesh Theekshana",
+    "team": "Sri Lanka",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Bowler",
+    "description": "- Mystery spinner Maheesh Theekshana was picked by Chennai Super Kings (CSK) for INR 70 lakhs in the IPL mega auction in 2022. That came on the back of his 16 wickets for champions Jaffna Kings at the Lanka Premier League in 2021.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/347800/347825.1.png"
+  },
+  {
+    "name": "Matheesha Pathirana",
+    "team": "Sri Lanka",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "- Plucked out of the T10 league, Matheesha Pathirana made his IPL debut for CSK in 2022, when he dismissed Shubman Gill and Hardik Pandya",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/355400/355402.1.png"
+  },
+  {
+    "name": "Sompal Kami",
+    "team": "Nepal",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowling Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/330400/330477.1.png"
+  },
+  {
+    "name": "Dipendra Singh Airee",
+    "team": "Nepal",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium, Right arm Offbreak",
+    "playingRole": "Middle order Batter",
+    "description": "Dipendra Singh Airee burst into the limelight after breaking the record for the fastest fifty in T20I cricket: nine balls against Mongolia in September 2023, and within seven months became only the third man to hit six sixes in an over in a T20I.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/413500/413536.2.png"
+  },
+  {
+    "name": "Rohit Paudel",
+    "team": "Nepal",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batting Allrounder",
+    "description": "A solid top-order batter and leader, Rohit Paudel has been the face of Nepal cricket at a time of unprecedented success in the post-Covid era. Paudel was just shy of 16 when he made his ODI debut, and in his third game became the then youngest batter to record an ODI fifty. He was also just 20 years and 73 days of age when he was named captain of the ODI side, the second youngest in the history of the format.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386700/386763.5.png"
+  },
+  {
+    "name": "Sandeep Lamichhane",
+    "team": "Nepal",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Bowler",
+    "description": "Discovered as a 14-year-old by then Nepal coach Pubudu Dassanayake during a pit stop in the remote Chitwan Province on the way from Kathmandu to left-arm spinner Basant Regmi's wedding, Sandeep Lamichhane has continued to make the most of good fortune at every opportunity to come his way.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/330400/330467.1.png"
+  },
+  {
+    "name": "Kushal Bhurtel",
+    "team": "Nepal",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Opening Batter",
+    "description": "An opening batter who packs a punch, a more-than-useful legspinner and a gun fielder, Kushal Bhurtel is one of Nepal's rising stars in the post-Paras Khadka-era.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/330400/330443.1.png"
+  },
+  {
+    "name": "Abinash Bohara",
+    "team": "Nepal",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386700/386760.5.png"
+  },
+  {
+    "name": "Aasif Sheikh Ã¢â‚¬Â ",
+    "team": "Nepal",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392138.2.png"
+  },
+  {
+    "name": "Anil Sah",
+    "team": "Nepal",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Wicketkeeper",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386900/386934.5.png"
+  },
+  {
+    "name": "Sundeep Jora",
+    "team": "Nepal",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Middle order Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392140.2.png"
+  },
+  {
+    "name": "Kushal Malla",
+    "team": "Nepal",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Batting Allrounder",
+    "description": "Kushal Malla is a big-hitting middle-order batter and a slow left-arm spinner who represents Nepal's new-age fearless brand of cricket. He was only 15 when he made his T20I debut and a few days later, he became the youngest male cricketer to score an ODI half-century (15 years and 340 days). Malla also briefly held the record for the fastest hundred in T20I history, off 34 balls against Mongolia, in 2023.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/387300/387329.5.png"
+  },
+  {
+    "name": "Gulsan Jha",
+    "team": "Nepal",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/391200/391219.2.png"
+  },
+  {
+    "name": "Andy Balbirnie",
+    "team": "Ireland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batter",
+    "description": "Already one of Ireland's star batters at No. 3, Andrew Balbirnie flourished with the bat even more after he was made captain across formats late in 2019. Although not a power-hitter, Balbirnie is fluent, keeps the score ticking, and is excellent against spin bowling - his hard sweep is a signature shot.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316637.1.png"
+  },
+  {
+    "name": "Paul Stirling (c)",
+    "team": "Ireland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batting Allrounder",
+    "description": "Paul Stirling has long been recognised as a formidable talent both in Ireland and beyond. With a natural swagger and belligerence allied to a portly build, he generates huge power with seemingly little effort, and is particularly strong lashing the ball straight or pulling it over midwicket.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/382100/382118.3.png"
+  },
+  {
+    "name": "Lorcan Tucker Ã¢â‚¬Â ",
+    "team": "Ireland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "Wicketkeeper-batter Lorcan Tucker, who was among Ireland's first batch of contracted cricketers, made his international debut in 2016, before he played his first first-class game the following year. His father and brothers also played the game; Tucker and his younger brother Fiachra both figured in the 2016 Ireland Under-19 World Cup squad.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/339100/339164.1.png"
+  },
+  {
+    "name": "Harry Tector",
+    "team": "Ireland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Middle order Batter",
+    "description": "Born into a cricketing family - his brothers Jack and Tim also captained Ireland at U19 World Cups - Harry Tector has quietly amassed an impressive record in the senior side since cementing a spot in the post-Covid era.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319800/319873.1.png"
+  },
+  {
+    "name": "Curtis Campher",
+    "team": "Ireland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Allrounder",
+    "description": "Born in Johannesburg, raised in South Africa and a player for the national Under-19 side, Curtis Campher decided to leave his homeland behind and put his Irish passport to good use in early 2020, declaring his intentions to move to Ireland and play for the national team. He went on the Ireland Wolves' tour to Namibia early that year, and impressed sufficiently to win a place in the squad for a three-match ODI series in England in July.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321300/321343.1.png"
+  },
+  {
+    "name": "George Dockrell",
+    "team": "Ireland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "description": "Left-arm spinner George Dockrell made his international debut for Ireland as a 17-year-old in 2010 though he had been bowling spin for only four years at that point, after coach Brian O'Rourke spotted him having a bowl in a car park during an Ireland age-group tour of Wales.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316659.1.png"
+  },
+  {
+    "name": "Gareth Delany",
+    "team": "Ireland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak Googly",
+    "playingRole": "Batting Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319800/319872.1.png"
+  },
+  {
+    "name": "Mark Adair",
+    "team": "Ireland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowling Allrounder",
+    "description": "Mark Adair is a tall, seam-bowling allrounder from Northern Ireland who made his first-class debut for Warwickshire while still a teenager at the end of the 2015 season. From a sporting family - his father was a goalkeeper at a decent level and his brother plays rugby and represented Ireland at cricket at age-group level - Adair also showed promise in rugby but committed to cricket having been offered a trial by Warwickshire in 2013. He has represented Ireland at age-group and A team level and claimed the wicket of Marcus Trescothick as his maiden victim in first-class cricket. He was released by Warwickshire at the end of the 2017 season and has since played for Northern Knights and Durham's second team.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319800/319892.1.png"
+  },
+  {
+    "name": "Barry McCarthy",
+    "team": "Ireland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "Barry McCarthy is an Ireland seam bowler whose involvement with Durham owed much to a recommendation by their England allrounder, Ben Stokes, who faced him in the nets before a one-day international and advised his county to take a look. Durham did just that and McCarthy made his first-class debut in 2015. A maiden five-wicket haul for Durham against Lancashire in Chester-le-Street the following year added to the good impression he had built at Ireland Under-19 level and during a spell with the Australian grade side Randwick-Petersham.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319800/319870.1.png"
+  },
+  {
+    "name": "Josh Little",
+    "team": "Ireland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "A bustling left-arm seamer from Dublin, Josh Little made an immediate impression on ODI debut against England in 2019 when he took 4 for 45 - including the wicket of Eoin Morgan with a sharp bouncer - to leave the world's No. 1-ranked side struggling in an ultimately successful run chase.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/367800/367860.1.png"
+  },
+  {
+    "name": "Ben White",
+    "team": "Ireland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Bowler",
+    "description": "Ben White was handed his T20I debut during Ireland's 2021 home summer and was picked in their squad for the T20 World Cup later that year. A tall legspinner who bowls quickly and fires the ball in flat, White was viewed as a potential long-term option to fill Ireland's wristspin void.\nESPNcricinfo staff",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/339100/339163.1.png"
+  },
+  {
+    "name": "Shaheen Shah Afridi",
+    "team": "Pakistan",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Fast",
+    "playingRole": "Bowler",
+    "description": "A baby face perched on a two-metre body, Shaheen Afridi's story is trademark Pakistani. An 18-year old already comfortable in the green shirt of the national side, he's been on the radar of the national selectors for almost three years. In a more intimate circle, he was destined for great achievements well before his teenage years, with an international cricketer for an elder brother.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322200/322250.1.png"
+  },
+  {
+    "name": "Mohammad Amir",
+    "team": "Pakistan",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "Mohammad Amir, the left-armer once hailed as Pakistan's next great fast-bowling hope and who nearly delivered on that promise, will always be linked to his role in the spot-fixing scandal of 2010 - the deliberate no-balls at Lord's that led to a five-year ban and time in prison.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320400/320457.1.png"
+  },
+  {
+    "name": "Haris Rauf",
+    "team": "Pakistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "By and large, the quixotic idea of a Pakistan fast bowler suddenly emerging upon everyone's radar fully formed is something of an urban legend. But that is almost precisely how Haris Rauf appeared, as if conjured simply by the power of the fast-bowling spirit that always seems to lurk around the country.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322200/322202.1.png"
+  },
+  {
+    "name": "Abbas Afridi",
+    "team": "Pakistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "Fast bowler Abbas Afridi first played List A cricket in 2018, but it was only when handed a T20 debut in the PSL that he finally found his calling. He finished as the top wicket-taker in the 2023 PSL with 23, off the back of which he immediately became a contender for a spot in the national side.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/405000/405050.5.png"
+  },
+  {
+    "name": "Shadab Khan",
+    "team": "Pakistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Allrounder",
+    "description": "A prodigious turner of the ball, teenage legspinner Shadab Khan burst onto cricket's collective consciousness only during the 2016/17 PSL season. His ability to take wickets while maintaining an excellent economy rate saw him talked up as that most frequent of phenomena: an exciting Pakistani prospect. Shadab is not afraid of bowling the wrong'un either; his only criticism might be that he bowls it a bit too often, but that hasn't helped batsmen pick it up any better, either out of the hand or off the pitch. He's also a useful lower-order right-handed batsman, something that has occasionally been witnessed during his domestic career.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320400/320467.1.png"
+  },
+  {
+    "name": "Imad Wasim",
+    "team": "Pakistan",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320400/320451.1.png"
+  },
+  {
+    "name": "Mohammad Rizwan Ã¢â‚¬Â ",
+    "team": "Pakistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "For several years, it appeared Mohammad Rizwan's international career would only happen in a parallel universe, racking up domestic runs even as he struggled to get a game in the national side. But for someone who played an international for the first time in two years in January 2019, Mohammad Rizwan was spoken of remarkably frequently. Most often, he was used as a stick to threaten current first-choice Pakistan wicketkeeper and captain Sarfaraz Ahmed, but the Peshawar native had qualities of his own that suggested he might have been unfortunate not to play for Pakistan more often.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320400/320458.1.png"
+  },
+  {
+    "name": "Saim Ayub",
+    "team": "Pakistan",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak, Legbreak Googly",
+    "playingRole": "Allrounder",
+    "description": "Saim Ayub made his PSL debut in 2021 as a waifish 18-year-old, playing a few stodgy innings as an opener for Quetta Gladiators. There were no signs at the time of the potentially destructive power-hitter he would evolve into.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/326400/326498.1.png"
+  },
+  {
+    "name": "Babar Azam (c)",
+    "team": "Pakistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batter",
+    "description": "A right-hand top-order batter known as much for his elegant cover drive as his ability to single-handedly carry the batting, Babar Azam was, for much of the late 2010s and early 2020s, the face of Pakistan cricket. He made his case for a permanent spot in Pakistan's white-ball sides with a hat-trick of ODI hundreds against West Indies in 2016. He was 21, fresh off a strong showing in age-group cricket and a recent international debut in a home series against Zimbabwe that kicked off with a fifty. A Test call-up followed soon after, and by the time Younis Khan and Misbah-ul-Haq bowed out, Babar had begun staking his claim as Pakistan's next great batter.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320400/320448.1.png"
+  },
+  {
+    "name": "Fakhar Zaman",
+    "team": "Pakistan",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Opening Batter",
+    "description": "Born in Mardan, where the standard of batsmanship will always be measured by arguably Pakistan's greatest Test batsman Younis Khan, Fakhar Zaman had been on Pakistan's thankless domestic circuit for over five years with almost no attention. A left-handed opener with an unusually high backlift, Zaman relies on raw power for his runs, which he's made plenty of. But it wasn't until the Quaid-e-Azam trophy in 2016-17 that his form began to be noticed. Zaman scored 663 runs in the competition at an average of 51, including 170 in the second innings of the final.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/402000/402046.5.png"
+  },
+  {
+    "name": "Usman Khan",
+    "team": "Pakistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/391100/391192.2.png"
+  },
+  {
+    "name": "George Munsey",
+    "team": "Scotland",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Opening Batter",
+    "description": "Known as the reverse-sweeping demon of the Associate world, George Munsey's path to the Scotland national team is as unorthodox as his trademark shot. Born and raised in Oxford, Munsey had dreams of becoming a professional golfer and it was a golf scholarship to the Loretto School, just outside Edinburgh, that brought him to Scotland at age 13.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320300/320365.1.png"
+  },
+  {
+    "name": "Michael Jones",
+    "team": "Scotland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Top order Batter",
+    "description": "The summer of 2022 saw opener Michael Jones finally convert promise into solid first-team returns. He began his fifth season as a Durham cricketer with a maiden first-class hundred at Grace Road, in the second round of the Championship, and followed that up a few months later by batting for more than eight hours to amass 206 from 381 balls against Middlesex at Chester-le-Street.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322400/322444.1.png"
+  },
+  {
+    "name": "Brandon McMullen",
+    "team": "Scotland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Batting Allrounder",
+    "description": "Born in Durban, Brandon McMullen moved to Scotland in 2018 and qualified for the national team in 2022, where he quickly established himself as a genuine allrounder. He made an immediate mark at the 2023 World Cup Qualifier with a five-wicket haul against Ireland and a maiden hundred against Oman.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392118.2.png"
+  },
+  {
+    "name": "Richie Berrington (c)",
+    "team": "Scotland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Middle order Batter",
+    "description": "Richie Berrington powered Scotland to their long-awaited first victory over an ICC Full Member when his century, which was made in only 56 balls and included five sixes, set-up victory over Bangladesh in a T20 international in July 2012",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316587.1.png"
+  },
+  {
+    "name": "Matthew Cross Ã¢â‚¬Â ",
+    "team": "Scotland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "A wicketkeeper-batter from Aberdeen, Matthew Cross got into the Scotland set-up at U-13 level, progressed up the ranks, making a good impression as vice-captain for the U-19s in the 2012 World Cup in Australia, and then broke into the senior side the following year.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316680.1.png"
+  },
+  {
+    "name": "Michael Leask",
+    "team": "Scotland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "Michael Leask is an explosive batsman from Aberdeen. He showed as much when he smeared five sixes during a memorable 16-ball 42 in an ODI against England in May 2014. But he has been hampered by inconsistency, and he only mustered 56 runs at an average of 9.33 during the World Cup Qualifiers in 2014. Leask also bowls useful off-spin, taking three wickets in Scotland's win over Tasmania in their World Cup acclimatisation tour in autumn 2014. Leask played a solitary first-class game for Northants in a tour match against New Zealand A in 2014. He moved on to Somerset ahead of the 2016 season with Somerset's director of cricket Matt Maynard describing him as a \"feisty cricketer\". A scattering of T20 matches were his only outings in his debut season.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316678.2.png"
+  },
+  {
+    "name": "Chris Greaves",
+    "team": "Scotland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/329700/329745.1.png"
+  },
+  {
+    "name": "Nathan Ellis",
+    "team": "Australia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "Nathan Ellis has developed into one of Australia's leading T20 bowlers in what was a rapid rise. He is a short, skiddy quick with an excellent yorker and superb change of pace.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/329700/329711.2.png"
+  },
+  {
+    "name": "Brad Wheal",
+    "team": "Scotland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "Brad Wheal, a right-handed batsman and right-arm pace bowler, was born in Durban, South Africa but holds a British passport and moved to England with the encouragement of Hampshire's head coach at the time, Dale Benkenstein, who had spotted him playing for Natal Under-19.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322400/322436.1.png"
+  },
+  {
+    "name": "Mark Watt",
+    "team": "Scotland",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "description": "Scotland left-arm spinner Mark Watt made a quiet international debut in 2015 but drew attention to himself more firmly two years on when he took five wickets against Netherlands in a T20I in Dubai, despatching them from 82 for 4 to nine down for less than 100. Later that year, he took three in a famous win against England in an ODI, Scotland's first. Watt won opportunities with Lancashire that summer, although he only took one wicket in four matches.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320300/320372.1.png"
+  },
+  {
+    "name": "Chris Sole",
+    "team": "Scotland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322400/322438.1.png"
+  },
+  {
+    "name": "Safyaan Sharif",
+    "team": "Scotland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "Born in Huddersfield, Safyaan Sharif made his debut for Scotland at 20 after eye-catching performances for Dunfermline and Scotland U-19s, and took 4 for 27 against the Netherlands in his first ODI in 2011. With 14 wickets at 23.92 apiece, his fast-medium bowling played an important part in Scotland's success in the World Cup Qualifiers in New Zealand in 2014.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316679.1.png"
+  },
+  {
+    "name": "David Wiese",
+    "team": "Namibia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Allrounder",
+    "description": "David Wiese joined a marked outflow of South Africa players into county cricket in the 2016-17 season when, at 31, he signed a three-year deal with Sussex, joining his compatriot Stiaan van Zyl. Wiese had not played international cricket since March 2016, and turned down a call-up for a home T20I series against Sri Lanka in making his decision to go Kolpak.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322079.1.png"
+  },
+  {
+    "name": "Ruben Trumpelmann",
+    "team": "Namibia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Fast",
+    "playingRole": "Bowler",
+    "description": "A left-arm seamer with a host of variations in his arsenal, Ruben Trumpelmann came through the South African domestic system, but it was the switch to Namibia that helped him rise to prominence.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/348600/348607.1.png"
+  },
+  {
+    "name": "Bernard Scholtz",
+    "team": "Namibia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "description": "Bernard Scholtz's brother Nicolaas is currently playing for the national side, but Bernard has his chance to impress at the forthcoming Under-19 World Cup in Malaysia. His aim, he says, is \"to compete against the top teams of the world and get exposure to a higher level of cricket\". And that goal moved a step closer in 2008 when he was named in the squad to face Bermuda in the Intercontinental Cup. He has represented Namibia A and is interested in becoming an engineer.\nWill Luke August 2008",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/329700/329759.1.png"
+  },
+  {
+    "name": "Gerhard Erasmus",
+    "team": "Namibia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "A reliable middle-order batter and a handy offspinner, Gerhard Erasmus has been a key figure in Namibia's rise in the 2020s.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/329700/329755.1.png"
+  },
+  {
+    "name": "Jack Brassell",
+    "team": "Namibia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392158.2.png"
+  },
+  {
+    "name": "Michael van Lingen",
+    "team": "Namibia",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium, Slow Left arm Orthodox",
+    "playingRole": "Opening Batter",
+    "description": "Having started out as a left-arm wristspinner and a middle-order batter, Michael Van Lingen eventually transitioned to bowling medium pace and that's how he broke into Namibia's team for the 2016 Under-19 World Cup, where he earned the Player of the Match award for a four-wicket haul in a surprise win over South Africa.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/350300/350305.1.png"
+  },
+  {
+    "name": "Nikolaas Davin",
+    "team": "Namibia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/391900/391958.2.png"
+  },
+  {
+    "name": "JJ Smit",
+    "team": "Namibia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Medium fast",
+    "playingRole": "Bowling Allrounder",
+    "description": "Right-hand batter and left-arm fast-medium bowler JJ Smit made his senior debut for Namibia in 2019 and quickly established himself with a blend of attacking batting and incisive seam bowling.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386900/386940.5.png"
+  },
+  {
+    "name": "Ronak Patel",
+    "team": "Uganda",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392000/392091.5.png"
+  },
+  {
+    "name": "Simon Ssesazi Ã¢â‚¬Â ",
+    "team": "Uganda",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Slow",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/391400/391469.2.png"
+  },
+  {
+    "name": "Robinson Obuya",
+    "team": "Uganda",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392114.2.png"
+  },
+  {
+    "name": "Alpesh Ramjani",
+    "team": "Uganda",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392000/392066.2.png"
+  },
+  {
+    "name": "Kenneth Waiswa",
+    "team": "Uganda",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/390900/390921.2.png"
+  },
+  {
+    "name": "Riazat Ali Shah",
+    "team": "Uganda",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Batting Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/387400/387425.5.jpg"
+  },
+  {
+    "name": "Dinesh Nakrani",
+    "team": "Uganda",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium",
+    "playingRole": "Allrounder",
+    "description": "Allrounder Dinesh Nakrani played an important role in Uganda's historic qualification for the 2024 T20 World Cup, first taking three wickets in the win over Zimbabwe and scoring an unbeaten 40 off 23 balls against Kenya in the Africa Region Qualifier. Nakrani began his career in age-group cricket for Saurashtra, in India, and qualified for Uganda in 2018. That same year he top-scored in the T20 World Cup Africa Region Qualifier B with 320 runs at a strike rate of 189, including scoring 102 not out off 50 balls against Kenya. In another regional qualifier, in 2021, Nakrani took a bagful of wickets - 21 at an average of 3.4, including 6 for 7 against Lesotho and 5 for 18 against Seychelles. However, in the main event in 2024, Nakrani played only one match and was out for a duck.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/381600/381663.7.png"
+  },
+  {
+    "name": "Brian Masaba (c)",
+    "team": "Uganda",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium, Right arm Offbreak, Legbreak Googly",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/390900/390914.2.png"
+  },
+  {
+    "name": "Fred Achelam",
+    "team": "Uganda",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392000/392067.2.png"
+  },
+  {
+    "name": "Juma Miyagi",
+    "team": "Uganda",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/381600/381675.5.jpg"
+  },
+  {
+    "name": "Cosmas Kyewuta",
+    "team": "Uganda",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392000/392069.2.png"
+  },
+  {
+    "name": "Karan KC",
+    "team": "Nepal",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Allrounder",
+    "description": "Broad-shouldered, barrel-chested fast bowler Karan KC has been incisive for Nepal through their brief history as an international cricket team, in a variety of conditions both at home and away, and no other pace bowler has produced more five-wicket hauls in both List A and T20 cricket. His consistency as a wicket-taker has made Nepal far less reliant on their spinners to produce winning results.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/330400/330442.1.png"
+  },
+  {
+    "name": "Lega Siaka",
+    "team": "Papua New Guinea",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium, Legbreak",
+    "playingRole": "Opening Batter",
+    "description": "Batter Lega Siaka was part of the side that played Papua New Guinea's very first ODI, after they got status in the format in 2014 following their fourth-place finish in the World Cup Qualifier that year. In the next game, Siaka anchored a chase of 262 with a hundred, putting on a partnership of 65 with former England keeper Geraint Jones, who played for PNG in the 2010s.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321100/321151.1.png"
+  },
+  {
+    "name": "John Kariko",
+    "team": "Papua New Guinea",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392167.2.png"
+  },
+  {
+    "name": "Pratik Athavale Ã¢â‚¬Â ",
+    "team": "Oman",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Wicketkeeper Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392162.2.png"
+  },
+  {
+    "name": "Kashyap Prajapati",
+    "team": "Oman",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Top order Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/387300/387332.5.png"
+  },
+  {
+    "name": "Aqib Ilyas (c)",
+    "team": "Oman",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak, Legbreak Googly",
+    "playingRole": "Top order Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321700/321767.1.png"
+  },
+  {
+    "name": "Zeeshan Maqsood",
+    "team": "Oman",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Opening Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321700/321792.1.png"
+  },
+  {
+    "name": "Khalid Kail",
+    "team": "Oman",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Middle order Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392163.2.png"
+  },
+  {
+    "name": "Ayaan Khan",
+    "team": "Oman",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/387400/387414.5.jpg"
+  },
+  {
+    "name": "Shoaib Khan",
+    "team": "Oman",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/390700/390785.2.png"
+  },
+  {
+    "name": "Mehran Khan",
+    "team": "Oman",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321700/321776.1.png"
+  },
+  {
+    "name": "Fayyaz Butt",
+    "team": "Oman",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "A part of Pakistan's pace arsenal in the Under-19 World Cup in New Zealand, Fayyaz Butt compares his style of play to Brett Lee and, like many aspiring professional cricketers in Pakistan, wants to emulate Imran Khan.\nCricinfo Staff, January 2010.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321700/321765.1.png"
+  },
+  {
+    "name": "Kaleemullah",
+    "team": "Oman",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "description": "It's hard to miss Kaleemullah, who stands over two metres tall, on a cricket field. But his bowling efficiency has shifted the conversation away from his towering physical stature and more towards his lofty statistics.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321700/321773.1.png"
+  },
+  {
+    "name": "Bilal Khan",
+    "team": "Oman",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "After a brief first-class career with Peshawar in Pakistan's domestic cricket in the late 2000s, left-arm swing bowler Bilal Khan turned into the leader of Oman's bowling attack and one of the most successful pace bowlers on the Associate scene in the late 2010s. As of 2022, his ODI bowling average was bettered only by Joel Garner, Rashid Khan and Sandeep Lamichhane among bowlers with at least 50 ODI wickets.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321700/321770.1.png"
+  },
+  {
+    "name": "Will Jacks",
+    "team": "England",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batting Allrounder",
+    "description": "- Will Jacks made his appearance in the IPL when Royal Challengers Bengaluru (RCB) bought him for INR 3.20 crore ahead of the 2024 season.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383155.1.png"
+  },
+  {
+    "name": "James Neesham",
+    "team": "New Zealand",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Batting Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383171.1.png"
+  },
+  {
+    "name": "Glenn Phillips",
+    "team": "New Zealand",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "Glenn Phillips is a compact, muscular hitter, known for playing outrageous shots, like the reverse pull. Born in South Africa, Phillips moved to New Zealand with his family at the age of five and has come through the cricket set-up in Auckland. He is a multi-dimensional player, who bats, bowls fastish offspin, fields superbly inside the ring and in the outfield, and keeps part-time as well.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383167.1.png"
+  },
+  {
+    "name": "Mohammed Siraj",
+    "team": "India",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "Mohammed Siraj's rise as a seamer was remarkably swift. The son of an autorickshaw driver in Hyderabad, he only began playing the game in class seven. It was in 2015 that he first bowled with a cricket ball. In 2017, he bagged an IPL contract worth INR 2.6 crore. Months later, he was wearing an India shirt and bowling in a T20 international against New Zealand.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322600/322611.1.png"
+  },
+  {
+    "name": "Jan Frylinck",
+    "team": "Namibia",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/348600/348605.1.png"
+  },
+  {
+    "name": "Zane Green Ã¢â‚¬Â ",
+    "team": "Namibia",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/350300/350307.1.png"
+  },
+  {
+    "name": "Ben Shikongo",
+    "team": "Namibia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/329700/329760.1.png"
+  },
+  {
+    "name": "Aaron Johnson",
+    "team": "Canada",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batter",
+    "description": "Originally from Jamaica, Aaron Johnson made his T20I debut for Canada in 2022 and soon established himself as a destructive opening batter. He showed his intent with a first-ball four against USA to kickstart the 2024 T20 World Cup.\n\nHe is the first Canada batter to hit multiple T20I centuries. His first century was in his first T20I tournament in Al Amerat where he smacked an unbeaten 109 against Oman in November 2022. Then in October 2023, he clubbed an unbeaten 121 against Panama. He had five fifties and two hundreds after his first 16 T20Is.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392146.2.png"
+  },
+  {
+    "name": "Navneet Dhaliwal",
+    "team": "Canada",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Middle order Batter",
+    "description": "Nearly ten years after making his List-A debut for Canada, Navneet Dhaliwal earned the honour of becoming his team's first half-centurion at the T20 World Cup in 2024. He scored 44-ball 61 in the tournament opener against USA but it was not enough to win the game. He has also led Canada in T20I cricket.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321200/321280.1.png"
+  },
+  {
+    "name": "Pargat Singh",
+    "team": "Canada",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392151.2.png"
+  },
+  {
+    "name": "Nicholas Kirton",
+    "team": "Canada",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Batting Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392150.2.png"
+  },
+  {
+    "name": "Shreyas Movva Ã¢â‚¬Â ",
+    "team": "Canada",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392147.2.png"
+  },
+  {
+    "name": "Ravinderpal Singh",
+    "team": "Canada",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392148.2.png"
+  },
+  {
+    "name": "Saad Bin Zafar (c)",
+    "team": "Canada",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "description": "The Pakistan-born Saad Bin Zafar earned the honour of being Canada's first captain at the T20 World Cup in 2024. That was a culmination of a long career with Canada that started with a first-class debut in 2008 before representing the team consistently in all formats.\n\nAs a slow left-arm spinner and left-hand batter, Saad has also been part of the Caribbean Premier League, representing St Lucia Zouks. In November 2021, he entered the record books as the first man to concede no run in a four-over spell in a T20I when he finished with figures of 4-4-0-2 against Panama.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321200/321289.1.png"
+  },
+  {
+    "name": "Kaleem Sana",
+    "team": "Canada",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "Like a fair number of team-mates in the Under-19 World Cup in New Zealand, Kaleem Sana has had first-class experience. He made his debut for Pakistan Customs in 2009 and has played two games, grabbing three wickets.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392155.2.png"
+  },
+  {
+    "name": "Dilon Heyliger",
+    "team": "Canada",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321200/321263.1.png"
+  },
+  {
+    "name": "Naseem Shah",
+    "team": "Pakistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast",
+    "playingRole": "Bowler",
+    "description": "Zarai Taraqiati Bank Limited may not be an esteemed name in Pakistan cricket, but it was for this department that Naseem Shah made his first-class debut at 15. With a natural, whippy action that generated easy pace, he immediately stood out even in that most competitive of fields - Pakistani fast bowling. A year later, he was making his Pakistan debut in Brisbane, though not before adversity touched him; he would lose his mother just before he received his first Pakistan cap.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322200/322223.2.png"
+  },
+  {
+    "name": "Jeremy Gordon",
+    "team": "Canada",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386600/386652.5.png"
+  },
+  {
+    "name": "Junaid Siddiqui",
+    "team": "Canada",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386600/386653.5.png"
+  },
+  {
+    "name": "Naseem Khushi",
+    "team": "Oman",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321700/321778.1.png"
+  },
+  {
+    "name": "Rafiullah",
+    "team": "Oman",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/381900/381937.6.png"
+  },
+  {
+    "name": "Shakeel Ahmed",
+    "team": "Oman",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "description": "Shakeel Ahmed is an economical left-arm spinner who made his T20I debut in 2023 and became a regular fixture in the Oman side. An ODI debut followed in September 2024, he would go on to stamp his authority in the format.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/381900/381930.2.jpg"
+  },
+  {
+    "name": "Iftikhar Ahmed",
+    "team": "Pakistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Middle order Batter",
+    "description": "In 2023, making what seemed to be his nth comeback to the Pakistan ODI side, offspinner allrounder Iftikhar Ahmed burst into flower with an unbeaten 94 from No. 6 against New Zealand in the fifth ODI (after Pakistan had sealed the series) - though the target of 300 proved a bridge too far for him and his side.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/382000/382033.4.png"
+  },
+  {
+    "name": "Frank Nsubuga",
+    "team": "Uganda",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "An offspinning allrounder whose swashbuckling knocks in the lower middle order complement his miserly bowling, Frank Nsubuga made his international debut playing for East and Central Africa in the 1997 ICC Trophy, aged just 16. He soon established his place in the national side, making his first-class debut against Namibia in the Intercontinental Cup in 2004 and earning himself a Man of the Match award as Uganda won by five wickets. Nsubuga steered his team to victory in the World Cricket League final against Argentina three years later, starring with both bat and ball, and has since settled into his role as a senior player for Uganda across all formats.\nLiam Brickhill May 2011",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/387500/387521.6.png"
+  },
+  {
+    "name": "Roger Mukasa",
+    "team": "Uganda",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/387500/387518.6.png"
+  },
+  {
+    "name": "Teja Nidamanuru",
+    "team": "Netherlands",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/368000/368040.1.png"
+  },
+  {
+    "name": "Matt Henry",
+    "team": "New Zealand",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "A slippery fast bowler, Matt Henry almost didn't play for New Zealand, as he underwent a major back surgery in 2012. Two years later, though, he was called up as cover during the ODI series against India, and thanks to a niggle to fellow injury-prone Hamish Bennett, Henry put the black cap on and registered the third-best figures for a New Zealand debutant in ODIs, claiming four wickets to seal New Zealand's 4-0 series triumph.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383178.1.png"
+  },
+  {
+    "name": "Michael Bracewell",
+    "team": "New Zealand",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Batting Allrounder",
+    "description": "A member of the Bracewell cricket dynasty, Michael made a late introduction to international cricket, at the age of 31, when he was handed his ODI cap in 2022, against Netherlands, more than ten years after he made his first-class and List A debuts. The innings that vaulted him to the front of the selection queue was a monstrous 141 off 65 balls, which took Wellington from a position of 43 for 5 to chasing down Central Districts' 227 with a ball remaining in a Super Smash T20 match in January that year.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383179.1.png"
+  },
+  {
+    "name": "Mark Chapman",
+    "team": "New Zealand",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Allrounder",
+    "description": "Born in Hong Kong, but qualifying for New Zealand through his father, Chapman began his international career with the country of his birth in 2014 having previously made the Under-19 squad as a 15-year-old. He made a century on ODI debut against UAE in 2015 having flown 20 hours following exams in New Zealand, but soon decided to throw his lot in with New Zealand and focused on his career with Auckland. His first New Zealand call-up came in early 2018 for the T20 tri-series involving England and Australia. It was reward for a prolific 2017-18 white-ball season by the left-hander, who scored over 300 runs in the Super Smash and more than 400 in the one-day Ford Trophy. He also bowls part-time left-arm spin which he has been encouraged to continue to work on. As a teenager he suffered a torn anterior cruciate ligament in his left knee playing rugby in New Zealand but it did not stall his cricket career.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383176.1.png"
+  },
+  {
+    "name": "Dilpreet Bajwa",
+    "team": "Canada",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392149.2.png"
+  },
+  {
+    "name": "Craig Young",
+    "team": "Ireland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Fast medium",
+    "playingRole": "Bowler",
+    "description": "One of a number of players to emerge out of Ireland's robust Under-19 squads from the early 2010s, Craig Young became the ninth bowler to take a five-for on men's ODI debut when he demolished Scotland in Malahide in September 2014. It was a well-timed performance for Young, considering he had just lost his county contract with Sussex and parlayed that into a Cricket Ireland central contract.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/386300/386360.5.png"
+  },
+  {
+    "name": "JP Kotze",
+    "team": "Namibia",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/390800/390804.2.png"
+  },
+  {
+    "name": "Malan Kruger",
+    "team": "Namibia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/390700/390713.2.png"
+  },
+  {
+    "name": "Tangeni Lungameni",
+    "team": "Namibia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Medium",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/350300/350306.1.png"
+  },
+  {
+    "name": "Brad Currie",
+    "team": "Scotland",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Medium",
+    "playingRole": "Bowler",
+    "description": "Left-arm seamer Brad Currie made a dream start to his trial with Sussex in mid-2022, taking a six-wicket haul on first-class debut at Lord's. Former England opener Mark Stoneman was his maiden victim during a spell of 4 for 16, as Currie proved he was ready for the step up at the age of 23, having spent several years playing National Counties cricket for Dorset. He made his List A debut the following month, taking 12 wickets in eight matches as Sussex reached the semi-finals of the Royal London Cup, and was subsequently awarded a full-time contract with the club.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392119.2.png"
+  },
+  {
+    "name": "Azam Khan Ã¢â‚¬Â ",
+    "team": "Pakistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "The son of former Pakistan captain and wicketkeeper Moin Khan, Azam Khan made his name as a power-hitting wicketkeeper-batter in T20 leagues around the world. Modelling himself after his idol Chris Gayle, Azam's brute strength and aggressive strokeplay have made him a fixture in franchise cricket, despite concerns over his fitness and criticism of his weight that have dogged him since his debut.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/399700/399770.2.png"
+  },
+  {
+    "name": "Monank Patel (c)Ã¢â‚¬Â ",
+    "team": "United States of America",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383210.1.png"
+  },
+  {
+    "name": "Sagar Dhakal",
+    "team": "Nepal",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/392100/392144.2.png"
+  },
+  {
+    "name": "Bilal Hassan",
+    "team": "Uganda",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/275800/275802.1.jpg"
+  },
+  {
+    "name": "Henry Ssenyondo",
+    "team": "Uganda",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Slow Left arm Orthodox",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/391200/391249.2.png"
+  },
+  {
+    "name": "Mujeeb Ur Rahman",
+    "team": "Afghanistan",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Bowler",
+    "description": "Offspinner Mujeeb ur Rahman has followed in the footsteps of his superstar compatriot Rashid Khan, mixing up offbreaks with legspin and ripping googlies and making a splash in T20 leagues around the world.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383240.1.png"
+  },
+  {
+    "name": "Sadeera Samarawickrama",
+    "team": "Sri Lanka",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": null,
+    "playingRole": "Wicketkeeper Batter",
+    "description": "In the longest format, Sadeera Samarawickrama is a dashing wicketkeeper-batsman who plays in the middle order. In limited-overs cricket, he has routinely set his teams off to fast starts as an opener. In any case, few school leavers of his vintage have made such a successful transition to the senior level. The national selectors have taken notice.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323000/323069.1.png"
+  },
+  {
+    "name": "Mohammad Nadeem",
+    "team": "Oman",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Allrounder",
+    "description": "Debuting as a 31-year-old in 2014 for his adopted country of Oman, Mohammad Nadeem took a while to get going, making his first half-century in international cricket shortly before his 36th birthday, against Hong Kong at the 2018 Asia Cup Qualifier in Malaysia.",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321700/321777.1.png"
+  },
+  {
+    "name": "Nikhil Dutta",
+    "team": "Canada",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Bowler",
+    "description": "",
+    "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321200/321281.1.png"
+  }
+]
